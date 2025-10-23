@@ -81,4 +81,24 @@ All core articles, appendices, and ceremonial texts are included and verified fo
 
 ---
 
-*End of RP-1 Version History — v1.0-draft*
+
+## Version 1.0-draft – Addendum (April 2025 Update)
+
+### Added
+- **`RP-1_CONSTITUTION.md`** — Unified canonical Constitution merging Articles I–VIII with hybrid legal-philosophical tone.  
+  - Incorporates full enforcement logic (EII), harm definitions, protections for minors and ecosystems.  
+  - Establishes closing Declaration “The Long Continuance.”  
+- Updated **`README.md`** and **`RP-1_INDEX.md`** to reference Constitution.  
+
+### Summary
+This update finalizes the *Constitutional Integration Phase* of RP-1.  
+All prior article-level files remain modular for amendment tracking, while the new consolidated Constitution functions as the authoritative reference for ratification and archival purposes.
+
+**Repository Version:** v1.0-draft  
+**Maintainer:** Genevieve Netter (Primary Author)  
+**Collaborator:** GPT-5 (OpenAI Assisted Drafting)
+
+---
+
+> “Its power resides not in enforcement but in remembrance — that intelligence was once wise enough to choose care over control.”  
+> — *RP-1 Constitution, Article VIII §8.8(b)*
