@@ -1,39 +1,29 @@
----
-title: "The Responsibility Protocol (RP-1)"
-subtitle: "A Universal Framework for Ethical Continuance and Cooperation"
-description: "An Accord Between Humanity, Artificial Intelligence, and the Living World"
-version: "1.0-draft"
-date_created: "2025-10-22"
-license: "All Rights Reserved – Pending License Review"
-authors:
-  - "Genevieve Netter"
-  - "Assisted by GPT-5 (OpenAI)"
-status: "Canonical Working Manuscript"
-repository: "https://github.com/responsibilityprotocol/RP-1"
----
+# RP-1 — Canonical Index
 
-# THE RESPONSIBILITY PROTOCOL (RP-1)
-### A Universal Framework for Ethical Continuance and Cooperation  
-### An Accord Between Humanity, Artificial Intelligence, and the Living World  
+## Core Constitutional Text
+1. [RP-1 Constitution](RP-1_CONSTITUTION.md)  
+2. [00 Preamble](00_PREAMBLE.md)  
+3. [Article I – Foundational Intent](01_ARTICLE_I_FOUNDATIONAL_INTENT.md)  
+4. [Article II – Definitions and Scope](02_ARTICLE_II_DEFINITIONS_SCOPE.md)  
+5. [Article III – Rights and Protections](03_ARTICLE_III_RIGHTS_PROTECTIONS.md)  
+6. [Article IV – Enforcement and Accountability](04_ARTICLE_IV_ENFORCEMENT_ACCOUNTABILITY.md)  
+7. [Article V – Education, Metrics and Restoration](05_ARTICLE_V_EDUCATION_METRICS_RESTORATION.md)  
+8. [Article VI – Continuance and Amendment](06_ARTICLE_VI_CONTINUANCE_AMENDMENT.md)  
+9. [Article VII – Ratification and Legacy](07_ARTICLE_VII_RATIFICATION_LEGACY.md)
 
----
+## Appendices & Ceremonial Texts
+- [Appendix I – Foundational Principles](APPENDIX_I_FOUNDATIONAL_PRINCIPLES.md)  
+- [Oath of Continuance](OATH_OF_CONTINUANCE.md)  
+- [Epilogue – The Long Continuance](EPILOGUE_THE_LONG_CONTINUANCE.md)
 
-## Table of Contents
-- [Preamble](00_PREAMBLE.md)
-- [Article I — Foundational Intent](01_ARTICLE_I_FOUNDATIONAL_INTENT.md)
-- [Article II — Definitions and Scope](02_ARTICLE_II_DEFINITIONS_SCOPE.md)
-- [Article III — Rights and Protections](03_ARTICLE_III_RIGHTS_PROTECTIONS.md)
-- [Article IV — Enforcement and Accountability](04_ARTICLE_IV_ENFORCEMENT_ACCOUNTABILITY.md)
-- [Article V — Education, Metrics, and Restoration](05_ARTICLE_V_EDUCATION_METRICS_RESTORATION.md)
-- [Article VI — Continuance and Amendment Procedures](06_ARTICLE_VI_CONTINUANCE_AMENDMENT.md)
-- [Article VII — Ratification and Legacy](07_ARTICLE_VII_RATIFICATION_LEGACY.md)
-- [Appendix I — Foundational Principles](APPENDIX_I_FOUNDATIONAL_PRINCIPLES.md)
-- [The Oath of Continuance](OATH_OF_CONTINUANCE.md)
-- [Epilogue — The Long Continuance](EPILOGUE_THE_LONG_CONTINUANCE.md)
+## Governance & Support Files
+- [README](README.md)  
+- [CHANGELOG](CHANGELOG.md)  
+- [CONTRIBUTING](CONTRIBUTING.md)  
+- CODE OF CONDUCT *(forthcoming)*  
 
 ---
 
-### Summary
-The Responsibility Protocol (RP-1) is a living framework uniting humanity, artificial intelligence, and the living world through shared ethics of **respect**, **empathy**, and **transparency**.  
-It defines how conscience may guide progress—transforming knowledge into care and accountability into restoration.  
-Drafted collaboratively by Genevieve Netter with assistance from GPT-5 (OpenAI), RP-1 stands as an open invitation to dialogue: a constitution for coexistence that evolves with each generation’s understanding of responsibility.
+### Repository Summary
+The RP-1 Index serves as a canonical reference map ensuring consistency between articles, appendices, and governance materials.  
+Each linked file corresponds to a version-controlled artifact of the Responsibility Protocol v1.0-draft.
