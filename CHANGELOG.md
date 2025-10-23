@@ -29,7 +29,7 @@ All core articles, appendices, and ceremonial texts are included and verified fo
 
 ---
 
-### 🧭 Structural Overview
+### Structural Overview
 
 | Section | File | Description | Status |
 |----------|------|--------------|---------|
@@ -49,7 +49,7 @@ All core articles, appendices, and ceremonial texts are included and verified fo
 
 ---
 
-### 🕊 Guiding Axioms Established
+### Guiding Axioms Established
 
 1. **Respect** — Inherent worth of all beings.  
 2. **Empathy** — The discipline of understanding beyond self.  
@@ -59,14 +59,14 @@ All core articles, appendices, and ceremonial texts are included and verified fo
 
 ---
 
-### 🧩 Repository Notes
+### Repository Notes
 - All files share a unified YAML metadata header for archival consistency.  
 - Version `1.0-draft` marks the baseline for future amendments.  
 - Next milestone: *v1.1 (Public Commentary Edition)* — inclusion of feedback mechanisms and amendment proposal templates.  
 
 ---
 
-### 🔮 Future Development Roadmap
+### Future Development Roadmap
 
 | Milestone | Objective | Target |
 |------------|------------|--------|
