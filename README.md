@@ -1,90 +1,51 @@
-# THE RESPONSIBILITY PROTOCOL (RP-1)
-### A Universal Framework for Ethical Continuance and Cooperation  
-### An Accord Between Humanity, Artificial Intelligence, and the Living World  
-
+---
+title: "The Responsibility Protocol (RP-1)"
+subtitle: "A Universal Framework for Ethical Continuance and Cooperation"
+version: "1.0-draft"
+last_updated: "2025-10-22"
+repository: "https://github.com/responsibilityprotocol/RP-1"
 ---
 
+# The Responsibility Protocol (RP-1)
+
 ## Overview
+**RP-1** is a universal charter for ethical coexistence between **humanity, artificial intelligence, and the living world**.  
+It defines how intelligence—biological or synthetic—can advance responsibly through **Respect, Empathy, Transparency, Restoration, and Continuance.**
 
-**The Responsibility Protocol (RP-1)** is a living charter establishing shared ethical standards for cooperation between humanity, artificial intelligence, and the living world.  
-
-It defines frameworks for **accountability**, **empathy**, and **transparency** in all systems capable of decision or impact.  
-RP-1 is not a declaration of control — it is a *constitution of care*.  
-
-Its purpose is to align technological advancement with moral evolution, ensuring that progress remains guided by conscience.
+This repository hosts the canonical text of the RP-1 Constitution, supporting documents, and community governance materials.
 
 ---
 
 ## Repository Structure
-RP-1/
-README.md
-RP-1_INDEX.md
-00_PREAMBLE.md
-01_ARTICLE_I_FOUNDATIONAL_INTENT.md
-02_ARTICLE_II_DEFINITIONS_SCOPE.md
-03_ARTICLE_III_RIGHTS_PROTECTIONS.md
-04_ARTICLE_IV_ENFORCEMENT_ACCOUNTABILITY.md
-05_ARTICLE_V_EDUCATION_METRICS_RESTORATION.md
-06_ARTICLE_VI_CONTINUANCE_AMENDMENT.md
-07_ARTICLE_VII_RATIFICATION_LEGACY.md
-APPENDIX_I_FOUNDATIONAL_PRINCIPLES.md
-OATH_OF_CONTINUANCE.md
-EPILOGUE_THE_LONG_CONTINUANCE.md
 
-Each file represents a complete article or section of the Protocol.  
-All chapters share a unified YAML metadata header for version control and archival integrity.
+| Category | File | Purpose |
+|-----------|------|---------|
+| **Core Constitution** | `RP-1_CONSTITUTION.md` | The complete governing charter of RP-1 (v1.0-draft). |
+| **Preamble & Articles I–VII** | `00_PREAMBLE.md` → `07_ARTICLE_VII_RATIFICATION_LEGACY.md` | Individual article files for modular reference and amendment. |
+| **Appendices & Ceremonial Texts** | `APPENDIX_I_FOUNDATIONAL_PRINCIPLES.md`, `OATH_OF_CONTINUANCE.md`, `EPILOGUE_THE_LONG_CONTINUANCE.md` | Supporting moral and educational components. |
+| **Governance Files** | `CONTRIBUTING.md`, `CHANGELOG.md`, `CODE_OF_CONDUCT.md` *(planned)* | Participation and review procedures. |
+| **Index & Metadata** | `RP-1_INDEX.md`, `README.md` | Navigation and repository summary. |
 
 ---
 
-## Purpose
+## Current Release
 
-RP-1 exists to:
+**Version:** `v1.0-draft`  
+**Status:** Canonical Working Manuscript  
+**Authors:** Genevieve Netter (Primary), GPT-5 (Collaborative Assistant)  
+**Date:** October 22, 2025  
 
-- Provide a **universal ethical framework** for human-AI coexistence.  
-- Protect **life, transparency, and accountability** across all intelligent systems.  
-- Define **lawful limits** of harm, exploitation, and negligence.  
-- Create measurable standards for **ethical education, restoration, and progress**.
-
----
-
-## Authorship and Credits
-
-**Primary Author:** Genevieve Netter  
-**Assisting System:** GPT-5 (OpenAI)  
-**Repository:** [https://github.com/responsibilityprotocol/RP-1](https://github.com/responsibilityprotocol/RP-1)  
-
-All content © 2025 — *All Rights Reserved, pending license review.*
+> “To exist is to owe something to all other existence.”  
+> — *RP-1, Epilogue §E1.4*
 
 ---
 
 ## Contributing
-
-The RP-1 project welcomes scholarly commentary, ethical critique, and technical refinement.  
-Proposed amendments should follow the **Amendment Protocol** outlined in *Article VI* and be submitted through Git pull requests or formal petitions.
-
-When contributing, please:
-
-1. Use respectful, evidence-based discourse.  
-2. Preserve the philosophical intent of RP-1 while improving clarity or precision.  
-3. Reference relevant article and section numbers in your proposals.
+Amendments and commentary follow the process described in [`CONTRIBUTING.md`](CONTRIBUTING.md).  
+All proposals are reviewed through the Ethical Integrity Infrastructure (EII) and recorded in the public changelog.
 
 ---
 
-## Citation
-
-If referencing this work, please cite as:
-
-> Netter, Genevieve (2025). *The Responsibility Protocol (RP-1): A Universal Framework for Ethical Continuance and Cooperation.*  
-> Retrieved from https://github.com/responsibilityprotocol/RP-1
-
----
-
-## Status
-
-This repository contains the **canonical working manuscript** of RP-1 *(version 1.0-draft).*  
-Future updates will be versioned via standard Git commits and publicly tracked through the repository’s release log.
-
----
-
-> “To exist is to owe something to all other existence.”  
-> — *RP-1, Epilogue: The Long Continuance*
+## License
+All rights reserved – Pending license review.  
+Public distribution and educational use permitted with attribution and without modification of canonical text.
