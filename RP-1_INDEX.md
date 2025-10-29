@@ -11,34 +11,19 @@ This index provides a navigational reference for all core RP-1 documents.
 ---
 
 ## Article Reference Set (`/ARTICLES/`)
-1. **Preamble**  
-   [`ARTICLES/00_PREAMBLE.md`](ARTICLES/00_PREAMBLE.md)
-
-2. **Article I — Foundational Intent**  
-   [`ARTICLES/01_ARTICLE_I_FOUNDATIONAL_INTENT.md`](ARTICLES/01_ARTICLE_I_FOUNDATIONAL_INTENT.md)
-
-3. **Article II — Definitions & Scope**  
-   [`ARTICLES/02_ARTICLE_II_DEFINITIONS_SCOPE.md`](ARTICLES/02_ARTICLE_II_DEFINITIONS_SCOPE.md)
-
-4. **Article III — Rights & Protections**  
-   [`ARTICLES/03_ARTICLE_III_RIGHTS_PROTECTIONS.md`](ARTICLES/03_ARTICLE_III_RIGHTS_PROTECTIONS.md)
-
-5. **Article IV — Enforcement & Accountability**  
-   [`ARTICLES/04_ARTICLE_IV_ENFORCEMENT_ACCOUNTABILITY.md`](ARTICLES/04_ARTICLE_IV_ENFORCEMENT_ACCOUNTABILITY.md)
-
-6. **Article V — Education & Restoration**  
-   [`ARTICLES/05_ARTICLE_V_EDUCATION_METRICS_RESTORATION.md`](ARTICLES/05_ARTICLE_V_EDUCATION_METRICS_RESTORATION.md)
-
-7. **Article VI — Continuance & Amendment**  
-   [`ARTICLES/06_ARTICLE_VI_CONTINUANCE_AMENDMENT.md`](ARTICLES/06_ARTICLE_VI_CONTINUANCE_AMENDMENT.md)
-
-8. **Article VII — Ratification & Legacy**  
-   [`ARTICLES/07_ARTICLE_VII_RATIFICATION_LEGACY.md`](ARTICLES/07_ARTICLE_VII_RATIFICATION_LEGACY.md)
+1. **Preamble** — [`ARTICLES/00_PREAMBLE.md`](ARTICLES/00_PREAMBLE.md)
+2. **Article I — Foundational Intent** — [`ARTICLES/01_ARTICLE_I_FOUNDATIONAL_INTENT.md`](ARTICLES/01_ARTICLE_I_FOUNDATIONAL_INTENT.md)
+3. **Article II — Definitions & Scope** — [`ARTICLES/02_ARTICLE_II_DEFINITIONS_SCOPE.md`](ARTICLES/02_ARTICLE_II_DEFINITIONS_SCOPE.md)
+4. **Article III — Rights & Protections** — [`ARTICLES/03_ARTICLE_III_RIGHTS_PROTECTIONS.md`](ARTICLES/03_ARTICLE_III_RIGHTS_PROTECTIONS.md)
+5. **Article IV — Enforcement & Accountability** — [`ARTICLES/04_ARTICLE_IV_ENFORCEMENT_ACCOUNTABILITY.md`](ARTICLES/04_ARTICLE_IV_ENFORCEMENT_ACCOUNTABILITY.md)
+6. **Article V — Education & Restoration** — [`ARTICLES/05_ARTICLE_V_EDUCATION_METRICS_RESTORATION.md`](ARTICLES/05_ARTICLE_V_EDUCATION_METRICS_RESTORATION.md)
+7. **Article VI — Continuance & Amendment** — [`ARTICLES/06_ARTICLE_VI_CONTINUANCE_AMENDMENT.md`](ARTICLES/06_ARTICLE_VI_CONTINUANCE_AMENDMENT.md)
+8. **Article VII — Ratification & Legacy** — [`ARTICLES/07_ARTICLE_VII_RATIFICATION_LEGACY.md`](ARTICLES/07_ARTICLE_VII_RATIFICATION_LEGACY.md)
 
 ---
 
 ## Enforcement & Operational Protocols
-- **EII Enforcement Specification** (Ethical Integrity Infrastructure)  
+- **EII Enforcement Specification**  
   [`EII_SPECIFICATION.md`](EII_SPECIFICATION.md)
 
 ---
@@ -55,26 +40,16 @@ This index provides a navigational reference for all core RP-1 documents.
 
 ---
 
+## Visual Reference Diagrams (`/DIAGRAMS/`)
+- **RP-1 System Hierarchy Diagram**  
+  [`DIAGRAMS/RP-1_SYSTEM_HIERARCHY.md`](DIAGRAMS/RP-1_SYSTEM_HIERARCHY.md)
+
+- **EII Intervention Flow Diagram**  
+  [`DIAGRAMS/EII_INTERVENTION_FLOW.md`](DIAGRAMS/EII_INTERVENTION_FLOW.md)
+
+---
+
 ## Governance & Project Metadata
-- **Repository Overview**  
-  [`README.md`](README.md)
-
-- **Version History**  
-  [`CHANGELOG.md`](CHANGELOG.md)
-
-- **Contribution Protocol**  
-  [`CONTRIBUTING.md`](CONTRIBUTING.md)
-
----
-
-### Navigation Philosophy
-This index is structured to distinguish:
-| Category | Purpose |
-|---------|---------|
-| Constitution | Defines core ethical and philosophical commitments |
-| Articles | Modular structured legal reference for interpretation and amendment |
-| EII Specification | Operational rule-set enabling real enforcement, accountability, and safety |
-| Appendices | Shared meaning, memory, and moral coherence of the project |
-| Governance | How the protocol evolves responsibly over time |
-
----
+- **Repository Overview** — [`README.md`](README.md)
+- **Version History** — [`CHANGELOG.md`](CHANGELOG.md)
+- **Contribution Protocol** — [`CONTRIBUTING.md`](CONTRIBUTING.md)
