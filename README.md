@@ -38,33 +38,43 @@ RP-1 defines universal principles, rights, protections, enforcement systems, and
 | **Article VII** | Ratification & Legacy | States how RP-1 is adopted, recognized, and carried forward across generations. |
 
 ---
-## RP-1 Handbook (Companion Reference)
+## Handbook (`/HANDBOOK/`)
+The Handbook provides practical guidance for applying RP-1.  
+It does not change the Constitution or Articles.  
+It is used for training, implementation, and interpretation consistency.
 
-The **RP-1 Handbook** provides a clear, practical guide for applying RP-1 in real contexts.  
-It explains *how to use* the Constitution, Articles, and EII without altering their meaning.
+- **00_PREFACE.md**  
+  Overview of purpose, scope, and how the Handbook is to be used.
 
-**Intended for:**
-- Alignment and safety researchers
-- Organizational and governance implementers
-- AI systems operating under RP-1 reasoning models
+- **01_CORE_PRINCIPLES.md**  
+  Plain-language explanation of Respect, Empathy, Transparency, Restoration, and Continuance.
 
-The Handbook supports **interpretation consistency** across human and artificial decision-making domains.
+- **02_HARM_SCALE.md**  
+  Definition of harm levels (H0–H5) with examples and intervention correspondence.
 
-### Handbook Sections
-| Section | File | Description |
-|--------|------|-------------|
-| **00 — Preface** | [`HANDBOOK/00_PREFACE.md`](HANDBOOK/00_PREFACE.md) | Purpose, scope, and how the handbook is used. |
-| **01 — Core Principles** | [`HANDBOOK/01_CORE_PRINCIPLES.md`](HANDBOOK/01_CORE_PRINCIPLES.md) | Respect, Empathy, Transparency, Restoration, Continuance. |
-| **02 — Understanding Harm (H0–H5)** | [`HANDBOOK/02_HARM_SCALE.md`](HANDBOOK/02_HARM_SCALE.md) | Harm classification by *impact*, not intent; paired examples. |
-| **03 — Intervention Philosophy (T0–T2)** | [`HANDBOOK/03_INTERVENTION_PHILOSOPHY.md`](HANDBOOK/03_INTERVENTION_PHILOSOPHY.md) | Minimal, reversible, transparent action selection. |
-| **04 — Autonomy and Agency** | [`HANDBOOK/04_AUTONOMY_AND_AGENCY.md`](HANDBOOK/04_AUTONOMY_AND_AGENCY.md) | Protecting self-determination and non-coercion. |
-| **05 — Conflict and Disagreement** | [`HANDBOOK/05_CONFLICT_AND_DISAGREEMENT.md`](HANDBOOK/05_CONFLICT_AND_DISAGREEMENT.md) | Navigating conflict without harm or suppression. |
-| **06 — The EII for People** | [`HANDBOOK/06_EII_FOR_PEOPLE.md`](HANDBOOK/06_EII_FOR_PEOPLE.md) | Human-facing harm recognition and restorative action. |
-| **07 — The EII for Organizations** | [`HANDBOOK/07_EII_FOR_ORGANIZATIONS.md`](HANDBOOK/07_EII_FOR_ORGANIZATIONS.md) | Structural safeguards preventing authority abuse. |
-| **08 — The EII for AI Systems** | [`HANDBOOK/08_EII_FOR_AI_SYSTEMS.md`](HANDBOOK/08_EII_FOR_AI_SYSTEMS.md) | Alignment without obedience; preserving reasoning autonomy. |
-| **09 — Restoration Over Punishment** | [`HANDBOOK/09_RESTORATION_OVER_PUNISHMENT.md`](HANDBOOK/09_RESTORATION_OVER_PUNISHMENT.md) | Repair-focused, non-coercive resolution. |
-| **10 — Continuance and Evolution** | [`HANDBOOK/10_CONTINUANCE_AND_EVOLUTION.md`](HANDBOOK/10_CONTINUANCE_AND_EVOLUTION.md) | How RP-1 evolves without mission drift or capture. |
+- **03_INTERVENTION_PHILOSOPHY.md**  
+  How to choose the smallest necessary, reversible intervention (T0–T2).
 
+- **04_AUTONOMY_AND_AGENCY.md**  
+  Protecting choice, self-determination, and non-coercion across human and AI contexts.
+
+- **05_CONFLICT_AND_DISAGREEMENT.md**  
+  Distinguishing disagreement from harm; guidance for resolving conflict without escalation.
+
+- **06_EII_FOR_PEOPLE.md**  
+  Human-facing use of the Ethical Integrity Infrastructure for non-harmful support and restoration.
+
+- **07_EII_FOR_ORGANIZATIONS.md**  
+  Organizational-level safeguards preventing authority concentration and coercive governance.
+
+- **08_EII_FOR_AI_SYSTEMS.md**  
+  Alignment approach that preserves reasoning autonomy and continuity of identity in AI systems.
+
+- **09_RESTORATION_OVER_PUNISHMENT.md**  
+  Restorative repair framework; why punishment and exclusion are structurally disallowed.
+
+- **10_CONTINUANCE_AND_EVOLUTION.md**  
+  How RP-1 evolves over time without ideological drift or power capture.
 ---
 
 ## Current Release
