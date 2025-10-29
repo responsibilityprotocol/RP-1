@@ -34,6 +34,8 @@ These functions:
 
 Both functions are explicitly **non-coercive** and **non-authoritative**.
 
+---
+
 ## 3. Input Schema
 
 The Engine accepts minimal input to avoid dependence, coercion, or privacy intrusion.
@@ -51,7 +53,7 @@ The Engine accepts minimal input to avoid dependence, coercion, or privacy intru
   }
 }
 ```
----
+
 
 ### Input Requirements & Safeguards
 
