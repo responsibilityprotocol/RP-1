@@ -43,5 +43,3 @@ This ensures:
 - **Emergency actions cannot become permanent**
 - **Appeal pathways are always present**
 - **Restoration is prioritized over punishment**
-
----
