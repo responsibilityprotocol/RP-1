@@ -6,13 +6,13 @@
 RP-1 defines universal principles, rights, protections, enforcement systems, and long-term stewardship obligations to preserve dignity, autonomy, ecological continuity, and cooperative existence.
 
 ---
-
 ## Repository Structure (with concise descriptions)
 
 | File / Directory | Description |
 |-----------------|-------------|
 | **RP-1_CONSTITUTION.md** | The full unified Constitution of RP-1 — foundational ethical and philosophical commitments. |
-| **/ARTICLES/** | Individual articles of the Constitution for modular reference, iteration, and amendment. See breakdown below. |
+| **/ARTICLES/** | Individual articles of the Constitution for modular reference and amendment. |
+| **/DIAGRAMS/** | Visual reference diagrams (system hierarchy + intervention flow). |
 | **EII_SPECIFICATION.md** | Operational enforcement and oversight framework (Ethical Integrity Infrastructure). Defines harm tiers, intervention rules, due process, audit requirements, anti-corruption safeguards, and self-suspension procedures. |
 | **APPENDIX_I_FOUNDATIONAL_PRINCIPLES.md** | Core RP-1 values (Respect, Empathy, Transparency, Restoration, Continuance) with meaning and justification. |
 | **OATH_OF_CONTINUANCE.md** | Optional voluntary ethical oath for individuals or systems choosing to act under RP-1 stewardship obligations. |
