@@ -1,3 +1,7 @@
+# RP-1 System Hierarchy Diagram
+
+This diagram illustrates the structural relationship between the RP-1 Constitution, Articles, Enforcement Systems, and Supporting Texts.
+
 ```mermaid
 graph TD
 
