@@ -269,7 +269,7 @@ Start
                               │
                               ├─ Yes → H5 → Use T2 (continuity safeguards)
                               └─ No  → (remain H4 → T2)
-
+```
 ---
 
 ### 8.2 Harm → Intervention Table (Reference Matrix)
