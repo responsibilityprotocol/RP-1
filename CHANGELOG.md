@@ -12,14 +12,10 @@ This project uses conceptual semantic versioning (major.minor-revision).
 **Collaborative drafting assistance:** GPT-5 (OpenAI)
 
 ### Added
-- **`EII_SPECIFICATION.md`** — Comprehensive enforcement and oversight protocol for the Ethical Integrity Infrastructure (EII), defining:
-  - Authority boundaries & hybrid human/AI intervention model
-  - Harm classification scale (H0–H5)
-  - Intervention tiers (T0 Advisory, T1 Preventive, T2 Emergency Override)
-  - Due process and appeal rights for all entities under review
-  - Public transparency, audit, and logging standards
-  - Anti-corruption safeguards and funding disclosure rules
-  - Self-suspension & reconstitution pathways to prevent institutional power concentration
+- **`EII_SPECIFICATION.md`** — Comprehensive enforcement and oversight protocol for the Ethical Integrity Infrastructure (EII).
+- `/DIAGRAMS/` directory created to store canonical visual reference diagrams.
+- Added `RP-1_SYSTEM_HIERARCHY.md` illustrating structural relationships between Constitution, Articles, EII, and Appendices.
+- Added `EII_INTERVENTION_FLOW.md` illustrating harm classification and intervention decision pathways.
 
 ### Changed
 - All Article files moved to new directory: **`/ARTICLES/`**
@@ -27,14 +23,7 @@ This project uses conceptual semantic versioning (major.minor-revision).
 
 ### Improved
 - Repository navigation clarity
-- Separation between:
-  1. **Constitutional ethics** (RP-1_CONSTITUTION.md)
-  2. **Operational enforcement** (EII_SPECIFICATION.md)
-  3. **Reference chapters** (`/ARTICLES/`)
-
-### Notes
-- This release marks the transition from **Textual Foundation** → **Operational Implementation Phase**
-- Next milestone: Implementation templates, example scenarios, and reference diagrams
+- Distinction between constitutional framework and operational enforcement systems
 
 ---
 
