@@ -244,30 +244,31 @@ This section provides a compact reference view combining:
 
 ### 8.1 Decision Flow (ASCII Diagram)
 
+```text
 Start
  │
- │ 1) Can all involved freely say **no**?
+ │ 1) Can all involved freely say NO?
  │
- ├─ Yes → 2) Can they **pause or exit** without consequence?
+ ├─ Yes → 2) Can they PAUSE or EXIT without consequence?
  │         │
- │         ├─ Yes → **H0–H1** → Use **T0**
+ │         ├─ Yes → H0–H1  →  Use T0 (clarify / reflect)
  │         │
- │         └─ No → **H2** → Use **T1**
+ │         └─ No  → H2     →  Use T1 (restore autonomy/boundary)
  │
- └─ No → **H2+** (Autonomy disrupted)
-           │
-           │ 3) Is there structural pressure, coercion, or retaliation?
-           │
-           ├─ Yes → **H3** → Use **T1/T2 (minimum necessary)**
-           │
-           └─ No → 4) Is there injury or direct harm?
-                    │
-                    ├─ Yes → **H4** → Use **T2**
-                    │
-                    └─ Is the harm irreversible?
-                            │
-                            ├─ Yes → **H5** → Use **T2**
-                            └─ No → (remain at H4 → T2)
+ └─ No  → H2+ (autonomy disrupted)
+            │
+            │ 3) Is there STRUCTURAL PRESSURE, COERCION, or RETALIATION?
+            │
+            ├─ Yes → H3 → Use T1/T2 (minimum necessary)
+            │
+            └─ No  → 4) Is there INJURY or DIRECT HARM?
+                     │
+                     ├─ Yes → H4 → Use T2 (stabilize safety)
+                     │
+                     └─ No  → 5) Is the outcome IRREVERSIBLE?
+                              │
+                              ├─ Yes → H5 → Use T2 (continuity safeguards)
+                              └─ No  → (remain H4 → T2)
 
 ---
 
