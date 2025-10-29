@@ -1,12 +1,12 @@
 # RP-1 — Changelog
 
 All notable changes to this project will be documented in this file.
-This project adheres to semantic conceptual versioning (major.minor-revision).
+This project uses conceptual semantic versioning (major.minor-revision).
 
 ---
 
 ## v1.1-draft — Enforcement Specification and Repository Reorganization
-**Date:** 2026-02-09  
+**Date:** 2025-10-29  
 **Status:** Draft Release  
 **Maintainer:** Genevieve Netter  
 **Collaborative drafting assistance:** GPT-5 (OpenAI)
@@ -23,18 +23,18 @@ This project adheres to semantic conceptual versioning (major.minor-revision).
 
 ### Changed
 - All Article files moved to new directory: **`/ARTICLES/`**
-  - Updated paths in `README.md` and `RP-1_INDEX.md` to reflect new structure
+  - Updated paths in `README.md` and `RP-1_INDEX.md` accordingly
 
 ### Improved
 - Repository navigation clarity
-- Conceptual separation between:
+- Separation between:
   1. **Constitutional ethics** (RP-1_CONSTITUTION.md)
   2. **Operational enforcement** (EII_SPECIFICATION.md)
-  3. **Textual reference articles** (/ARTICLES/)
+  3. **Reference chapters** (`/ARTICLES/`)
 
 ### Notes
-- This release represents the transition from **Constitution Finalization** → **Operational Compatibility Phase**
-- Next milestone: Standardized examples, implementation templates, and reference diagrams for real-world adoption
+- This release marks the transition from **Textual Foundation** → **Operational Implementation Phase**
+- Next milestone: Implementation templates, example scenarios, and reference diagrams
 
 ---
 
@@ -43,10 +43,8 @@ This project adheres to semantic conceptual versioning (major.minor-revision).
 **Contributor:** Genevieve Netter  
 **Drafting support:** GPT-5 (OpenAI)
 
-- Completed unified RP-1 Constitution (Articles I–VIII + Preamble + Long Continuance)
+- Completed RP-1 Constitution (Articles I–VIII)
 - Established Foundational Principles, Rights, Protections, and Stewardship obligations
-- Created initial modular Article set for future revision tracking
+- Created modular Article set for revision tracking
 
 ---
-
-*(End of Changelog)* 
