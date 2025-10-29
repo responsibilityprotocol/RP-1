@@ -50,6 +50,7 @@ The Engine accepts minimal input to avoid dependence, coercion, or privacy intru
     "environment": "string (optional)"
   }
 }
+
 ---
 ### Input Requirements & Safeguards
 
