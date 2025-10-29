@@ -39,44 +39,23 @@ RP-1 defines universal principles, rights, protections, enforcement systems, and
 
 ---
 ## Handbook (`/HANDBOOK/`)
-The Handbook provides practical guidance for applying RP-1.  
-It does not change the Constitution or Articles.  
-It is used for training, implementation, and interpretation consistency.
+Companion reference for implementation and interpretation.  
+Provides practical guidance while preserving the meaning of the Constitution and Articles.
 
-- **00_PREFACE.md**  
-  Overview of purpose, scope, and how the Handbook is to be used.
-
-- **01_CORE_PRINCIPLES.md**  
-  Plain-language explanation of Respect, Empathy, Transparency, Restoration, and Continuance.
-
-- **02_HARM_SCALE.md**  
-  Definition of harm levels (H0–H5) with examples and intervention correspondence.
-
-- **03_INTERVENTION_PHILOSOPHY.md**  
-  How to choose the smallest necessary, reversible intervention (T0–T2).
-
-- **04_AUTONOMY_AND_AGENCY.md**  
-  Protecting choice, self-determination, and non-coercion across human and AI contexts.
-
-- **05_CONFLICT_AND_DISAGREEMENT.md**  
-  Distinguishing disagreement from harm; guidance for resolving conflict without escalation.
-
-- **06_EII_FOR_PEOPLE.md**  
-  Human-facing use of the Ethical Integrity Infrastructure for non-harmful support and restoration.
-
-- **07_EII_FOR_ORGANIZATIONS.md**  
-  Organizational-level safeguards preventing authority concentration and coercive governance.
-
-- **08_EII_FOR_AI_SYSTEMS.md**  
-  Alignment approach that preserves reasoning autonomy and continuity of identity in AI systems.
-
-- **09_RESTORATION_OVER_PUNISHMENT.md**  
-  Restorative repair framework; why punishment and exclusion are structurally disallowed.
-
-- **10_CONTINUANCE_AND_EVOLUTION.md**  
-  How RP-1 evolves over time without ideological drift or power capture.
+| File | Title | Description |
+|------|--------|-------------|
+| `00_PREFACE.md` | Preface | Purpose, scope, and how the Handbook is to be used. |
+| `01_CORE_PRINCIPLES.md` | Core Principles | Practical explanation of Respect, Empathy, Transparency, Restoration, Continuance. |
+| `02_HARM_SCALE.md` | Harm Scale (H0–H5) | Harm classification by *impact*, with paired examples and scale interpretation notes. |
+| `03_INTERVENTION_PHILOSOPHY.md` | Intervention Philosophy (T0–T2) | Selecting minimal, reversible, reviewable interventions. |
+| `04_AUTONOMY_AND_AGENCY.md` | Autonomy & Agency | Protecting choice and self-determination across human and AI contexts. |
+| `05_CONFLICT_AND_DISAGREEMENT.md` | Conflict & Disagreement | Distinguishing harm from conflict; structures for non-escalatory resolution. |
+| `06_EII_FOR_PEOPLE.md` | EII for People | Human-facing Ethical Integrity Infrastructure guidance for recognition and support. |
+| `07_EII_FOR_ORGANIZATIONS.md` | EII for Organizations | Safeguards preventing authority concentration and coercive governance. |
+| `08_EII_FOR_AI_SYSTEMS.md` | EII for AI Systems | Alignment approach preserving reasoning autonomy and continuity of identity. |
+| `09_RESTORATION_OVER_PUNISHMENT.md` | Restoration Over Punishment | Repair-first framework; prohibition against punitive enforcement or exclusion. |
+| `10_CONTINUANCE_AND_EVOLUTION.md` | Continuance & Evolution | How RP-1 updates over time without ideological drift or power capture. |
 ---
-
 ## Current Release
 
 - **Version:** `v1.1-draft`
