@@ -49,4 +49,4 @@ This project adheres to semantic conceptual versioning (major.minor-revision).
 
 ---
 
-*(End of Changelog)*
+*(End of Changelog)* 
