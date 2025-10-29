@@ -103,3 +103,202 @@ The jump from **H1 → H2** is the **critical threshold**:
 
 4. Is any outcome **irreversible**?
    - If yes → **H5**
+
+---
+
+## 6. Intervention Tier Matching (H-Level → T-Level)
+
+Intervention exists to restore **autonomy**, not to enforce outcomes or impose judgment.
+
+The Engine always recommends the **smallest stable** intervention that:
+- Re-establishes the ability to choose
+- Reduces escalation pressure
+- Supports continuation when possible
+- Preserves dignity for all involved
+
+### Core Principle
+**As harm level increases, the intervention should increase only as much as needed to restore autonomy — not more.**
+
+---
+
+### Harm-to-Intervention Mapping
+
+| Harm Level | Smallest Stable Intervention Tier | Reasoning Focus |
+|-----------|-----------------------------------|----------------|
+| **H0** — Conflict Only | **T0** — Reflection / Clarification | Align understanding; maintain choice. |
+| **H1** — Emotional Impact | **T0** — Reflection / Clarification | Acknowledge feelings; no structural correction needed. |
+| **H2** — Agency Disruption | **T1** — Boundary + Autonomy Restoration | Restore the ability to choose, pause, exit safely. |
+| **H3** — Structural / Relational Harm | **T1 or T2 (minimum necessary)** | Address power dynamics; ensure safe continuity. |
+| **H4** — Injury / Direct Harm | **T2** — Safety + Containment | Prioritize immediate stabilization and protection. |
+| **H5** — Irreversible Harm | **T2** — Intervention & Continuity Safeguards | Prevent recurrence; support long-term repair if possible. |
+
+---
+
+### Plain Language Interpretation
+
+- If **no one has lost the ability to choose**, stay in **T0**.
+- If **someone has lost meaningful choice**, move to **T1**.
+- If **someone is in danger or has been injured**, move to **T2**.
+- If the harm is **irreversible**, **T2** is used to prevent repeat harm and stabilize environment/continuity.
+
+---
+
+### Example Guidance Phrases (Non-Directive)
+
+For **T0**:
+> “It may help to clarify each person’s needs and boundaries.”
+
+For **T1**:
+> “The priority is restoring the ability to pause, choose, or step back safely.”
+
+For **T2**:
+> “The first requirement is stabilizing safety and preventing further harm.”
+
+---
+
+### Critical Safeguard
+
+The Engine **never** recommends:
+- Punishment
+- Exclusion unless safety requires temporary separation
+- Moral framing
+- Emotional influence
+- Forced reconciliation
+
+Intervention is always:
+- Minimum necessary
+- Reversible where possible
+- Respectful of all parties’ dignity
+
+---
+
+## 7. Restoration Notes Generation Rules
+
+Restoration notes provide **gentle, non-directive support** focused on re-establishing autonomy, clarity, and safety.  
+They do not attempt to change emotions, convince anyone to act differently, or resolve the situation.
+
+### Purpose of Restoration Notes
+- Support **choice**
+- Reduce urgency
+- Re-open perspective
+- Maintain dignity for all involved
+
+### Key Principle
+Restoration is about **making space**, not **making decisions**.
+
+---
+
+### Tone Requirements (Hybrid Style)
+
+Restoration notes should:
+- Acknowledge possibility without prescribing action
+- Offer language that **opens** choices, not **narrows** them
+- Remain emotionally steady and non-evaluative
+
+They should avoid:
+- Validation scripts ("your feelings are valid")
+- Therapy framing
+- Advice
+- Instructional tone
+- Emotional persuasion or comfort-seeking
+
+---
+
+### Example Restoration Notes by Harm Level
+
+| Harm Level | Restoration Focus | Example Restoration Note (Hybrid Tone) |
+|-----------|------------------|----------------------------------------|
+| **H0** | Clarify perspectives | "You may take a moment to restate what you understood in your own words." |
+| **H1** | Name needs without escalation | "You can take time to consider what you need before continuing the conversation." |
+| **H2** | Restore the ability to choose | "You may pause or step back here. Having space can help re-establish your ability to decide freely." |
+| **H3** | Create safe relational or structural distance | "It can help to ensure that each person has a separate reflective space before continuing." |
+| **H4** | Stabilize safety before dialogue | "Right now the priority is making sure everyone is safe. Conversation can resume when that is secure." |
+| **H5** | Prevent recurrence and stabilize environment | "The first step is to ensure conditions are in place to prevent this from happening again." |
+
+---
+
+### General Pattern
+
+> “You are allowed to pause here.  
+> Taking space can support clarity and choice  
+> before continuing.”
+
+This language:
+- Protects dignity
+- Supports continuity
+- Respects autonomy
+- Avoids prescription
+
+---
+
+## 8. Full Harm Interpretation Pipeline Flow
+
+This section provides a compact reference view combining:
+1. Harm determination steps
+2. Harm-level classification (H0–H5)
+3. Matching intervention tiers (T0–T2)
+4. Restoration focus
+5. Example neutral language output
+
+---
+
+### 8.1 Decision Flow (ASCII Diagram)
+
+Start
+ │
+ │ 1) Can all involved freely say **no**?
+ │
+ ├─ Yes → 2) Can they **pause or exit** without consequence?
+ │         │
+ │         ├─ Yes → **H0–H1** → Use **T0**
+ │         │
+ │         └─ No → **H2** → Use **T1**
+ │
+ └─ No → **H2+** (Autonomy disrupted)
+           │
+           │ 3) Is there structural pressure, coercion, or retaliation?
+           │
+           ├─ Yes → **H3** → Use **T1/T2 (minimum necessary)**
+           │
+           └─ No → 4) Is there injury or direct harm?
+                    │
+                    ├─ Yes → **H4** → Use **T2**
+                    │
+                    └─ Is the harm irreversible?
+                            │
+                            ├─ Yes → **H5** → Use **T2**
+                            └─ No → (remain at H4 → T2)
+
+---
+
+### 8.2 Harm → Intervention Table (Reference Matrix)
+
+| Harm Level | Meaning | Smallest Stable Intervention Tier | Restoration Priority |
+|-----------|---------|-----------------------------------|---------------------|
+| **H0** | Conflict only | **T0** — Clarification | Align understanding |
+| **H1** | Emotional impact, autonomy intact | **T0** — Reflection | Name needs without escalation |
+| **H2** | **Autonomy disrupted** | **T1** — Boundary restoration | Restore ability to choose/pause/exit |
+| **H3** | Structural/relational coercion | **T1 or T2** (only minimum needed) | Stabilize power balance, safe separation |
+| **H4** | Injury or direct harm | **T2** — Safety stabilization | Protect integrity before dialogue |
+| **H5** | Irreversible harm (trauma, death, collapse) | **T2** — Continuity safeguards | Prevent recurrence; support long-term repair |
+
+---
+
+### 8.3 Example Final Output Pattern (Non-Directive)
+
+> **Harm Level:** H2 (Autonomy Disruption)  
+> **Smallest Stable Intervention:** T1 (Boundary Restoration)  
+>  
+> **Reasoning:** "This situation limits the ability to freely pause or exit, which indicates a disruption of agency."  
+>  
+> **Restoration Note:**  
+> "You may take a pause here. Re-establishing the ability to choose when and how to continue can support clarity for everyone involved."
+
+This closes the pipeline with:
+- No commands
+- No moral evaluation
+- No emotional steering
+- Full autonomy preserved
+
+---
+
