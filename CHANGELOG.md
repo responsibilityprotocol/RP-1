@@ -22,6 +22,23 @@ These updates were made to ensure:
 
 ---
 
+## 2025-10-30
+### Added
+- Added RESEARCH_WHITEPAPERS/ directory.
+- Added RP-1_vs_EU_AI_Act_Comparative_Whitepaper.md.
+
+### Updated
+- README.md to reflect:
+  - Accurate directory structure
+  - Correct filenames and link paths
+  - Inclusion of DIAGRAMS and Research sections
+- RP-1_INDEX.md rebuilt to match repository exactly.
+
+### No Changes
+- No renames or relocations of EII_SPECIFICATION.md (remains separate from ENGINE).
+
+---
+
 ## [Unreleased]
 ### New
 - Added `/HANDBOOK/` directory containing the full RP-1 Handbook (Sections 00–10).
