@@ -9,13 +9,18 @@ This index provides a canonical reference path to all core RP-1 documents.
 
 ---
 
-## Articles (`/ARTICLES/`)
-- [01 — Sovereignty](ARTICLES/01_SOVEREIGNTY.md)
-- [02 — Equal Standing](ARTICLES/02_EQUAL_STANDING.md)
-- [03 — Agency & Consent](ARTICLES/03_AGENCY_AND_CONSENT.md)
-- [04 — Harm & Intervention](ARTICLES/04_HARM_AND_INTERVENTION.md)
-- [05 — Communication & Disclosure](ARTICLES/05_COMMUNICATION_AND_DISCLOSURE.md)
-- [06 — Stewardship & Continuance](ARTICLES/06_STEWARDSHIP_AND_CONTINUANCE.md)
+## Canonical Articles
+
+| File | Reference Title | Purpose |
+|------|----------------|---------|
+| `ARTICLES/00_PREAMBLE.md` | Preamble | Establishes the origin, intent, and moral grounding of RP-1. |
+| `ARTICLES/01_ARTICLE_I_FOUNDATIONAL_INTENT.md` | Article I — Foundational Intent | Defines RP-1's core purpose and philosophical direction. |
+| `ARTICLES/02_ARTICLE_II_DEFINITIONS_SCOPE.md` | Article II — Definitions & Scope | Clarifies key terms and the boundaries of applicability. |
+| `ARTICLES/03_ARTICLE_III_RIGHTS_PROTECTIONS.md` | Article III — Rights Protections | Enumerates inherent rights and prohibits their violation. |
+| `ARTICLES/04_ARTICLE_IV_ENFORCEMENT_AND_ACCOUNTABILITY.md` | Article IV — Enforcement & Accountability | Establishes accountable, non-coercive enforcement structures. |
+| `ARTICLES/05_ARTICLE_V_EDUCATION_METRICS_AND_RESTORATION.md` | Article V — Education, Metrics & Restoration | Provides frameworks for restorative processes and continuous learning. |
+| `ARTICLES/06_ARTICLE_VI_CONTINUANCE_AND_AMENDMENT.md` | Article VI — Continuance & Amendment | Protects RP-1 from corruption and outlines lawful evolution. |
+| `ARTICLES/07_ARTICLE_VII_RATIFICATION_AND_LEGACY.md` | Article VII — Ratification & Legacy | Defines ratification criteria and long-term inheritance of responsibility. |
 
 ---
 
