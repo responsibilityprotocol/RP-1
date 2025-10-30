@@ -7,7 +7,7 @@ to determine harm level and the smallest stable intervention tier needed to
 restore autonomy and prevent further harm. It does not issue commands or direct
 behavior. It provides clarity, not control.
 
---
+---
 
 ## 2. Core Definitions
 
@@ -34,7 +34,7 @@ consistent, auditable, and resistant to emotional or political drift.
   The smallest stable level of restorative support necessary to re-establish
   autonomy and prevent escalation.
 
---
+---
 
 ## 3. Input Schema
 
