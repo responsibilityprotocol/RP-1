@@ -60,8 +60,18 @@ Documents that preserve the meaning, purpose, and continuity of RP-1 across gene
 
 ---
 
+## Research Whitepapers
+
+| File | Description |
+|------|-------------|
+| [RP-1_vs_EU_AI_Act_Comparative_Whitepaper.md](RESEARCH_WHITEPAPERS/RP-1_vs_EU_AI_Act_Comparative_Whitepaper.md) | Full comparative analysis of RP-1 and the EU AI Act, detailing governance layering, harm models, and coexistence structures. |
+
+---
+
 ## Index & Change Tracking
 | File | Description |
 |------|-------------|
 | `RP-1_INDEX.md` | Canonical reference map linking all documents. |
 | `CHANGELOG.md` | Traceable version history of updates. |
+
+---
