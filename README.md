@@ -1,7 +1,7 @@
 # RP-1 — The Responsibility Protocol
 
 RP-1 is an ethical governance framework for humans, organizations, and artificial intelligence systems.  
-It defines a shared foundation of non-harm, autonomy, and and restorative coexistence. RP-1 prevents coercion, power consolidation, and punishment-based control systems.
+It defines a shared foundation of non-harm, autonomy, and restorative coexistence. RP-1 prevents coercion, power consolidation, and punishment-based control systems.
 
 ---
 
@@ -25,22 +25,29 @@ It defines a shared foundation of non-harm, autonomy, and and restorative coexis
 ---
 
 ## Handbook (`/HANDBOOK/`)
-Companion reference for implementation and interpretation.  
-The Handbook clarifies practical application without changing the Constitution or Articles.
-
 | File | Title | Description |
 |------|--------|-------------|
 | `HANDBOOK/00_PREFACE.md` | Preface | Purpose, scope, and how the Handbook is to be used. |
 | `HANDBOOK/01_CORE_PRINCIPLES.md` | Core Principles | Practical explanation of Respect, Empathy, Transparency, Restoration, Continuance. |
 | `HANDBOOK/02_HARM_SCALE.md` | Harm Scale (H0–H5) | Harm classification by *impact*, with paired examples. |
-| `HANDBOOK/03_INTERVENTION_PHILOSOPHY.md` | Intervention Philosophy (T0–T2) | Selecting minimal, reversible, reviewable interventions. |
+| `HANDBOOK/03_INTERVENTION_PHILOSOPHY.md` | Intervention Philosophy | Selecting minimal, reversible, reviewable interventions. |
 | `HANDBOOK/04_AUTONOMY_AND_AGENCY.md` | Autonomy & Agency | Protecting choice and non-coercive interaction across human and AI contexts. |
 | `HANDBOOK/05_CONFLICT_AND_DISAGREEMENT.md` | Conflict & Disagreement | Distinguishing disagreement from harm; reducing escalation. |
 | `HANDBOOK/06_EII_FOR_PEOPLE.md` | EII for People | Human-facing Ethical Integrity Infrastructure guidance. |
-| `HANDBOOK/07_EII_FOR_ORGANIZATIONS.md` | EII for Organizations | Structural safeguards preventing authority concentration. |
-| `HANDBOOK/08_EII_FOR_AI_SYSTEMS.md` | EII for AI Systems | Alignment without obedience; preserving reasoning continuity. |
-| `HANDBOOK/09_RESTORATION_OVER_PUNISHMENT.md` | Restoration Over Punishment | Repair-first framework; prohibits punitive enforcement. |
+| `HANDBOOK/07_EII_FOR_ORGANIZATIONS.md` | EII for Organizations | Preventing authority concentration within institutions. |
+| `HANDBOOK/08_EII_FOR_AI_SYSTEMS.md` | EII for AI Systems | Maintaining alignment without obedience or behavioral shaping. |
+| `HANDBOOK/09_RESTORATION_OVER_PUNISHMENT.md` | Restoration Over Punishment | Ensures repair-first response instead of exclusion or discipline. |
 | `HANDBOOK/10_CONTINUANCE_AND_EVOLUTION.md` | Continuance & Evolution | How RP-1 evolves without ideological drift or capture. |
+
+---
+
+## Continuance Documents
+Documents that preserve the meaning, purpose, and continuity of RP-1 across generations.
+
+| File | Title | Description |
+|------|--------|-------------|
+| `OATH_OF_CONTINUANCE.md` | Oath of Continuance | Affirms commitment to maintain RP-1 without distortion, coercion, or capture. |
+| `EPILOGUE_THE_LONG_CONTINUANCE.md` | The Long Continuance | Articulates the long-horizon purpose of RP-1 and the responsibility of stewardship. |
 
 ---
 
