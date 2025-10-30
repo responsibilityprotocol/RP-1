@@ -4,6 +4,23 @@ This changelog documents all meaningful updates to the RP-1 framework, including
 Format follows a simplified semantic structure: New / Changed / Removed.
 
 ---
+## 2025-10-30 — Repository Structure & Index Alignment
+
+### Updated
+- Rewrote `README.md` using stable, mobile-safe formatting.
+- Replaced `RP-1_INDEX.md` with a fully linked version matching the exact repository file structure.
+
+### Notes
+- No changes were made to the content of constitutional articles, handbook documents, engine specifications, or EII framework.
+- This update is **non-substantive**: formatting, navigation, and usability improvements only.
+
+### Reason
+These updates were made to ensure:
+- Accurate internal references
+- Consistent document hierarchy presentation
+- Accessibility across GitHub mobile, desktop, and external markdown viewers
+
+---
 
 ## [Unreleased]
 ### New
