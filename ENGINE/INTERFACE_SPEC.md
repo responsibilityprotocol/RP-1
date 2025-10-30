@@ -1,257 +1,224 @@
-I'm# RP-1 Engine — Interface Specification
+## RP-1 Engine — Interface Specification
+Version: 1.0  
+Status: Draft (Stable Foundation; Implementation Ongoing)
 
-The RP-1 Engine is a reasoning support system designed to help humans, organizations, and artificial intelligence systems apply the RP-1 framework consistently. It provides interpretive guidance and proportionality validation while preserving autonomy and preventing coercion.
+The RP-1 Engine is a non-coercive interpretive system that evaluates situations
+to determine harm level and the smallest stable intervention tier needed to
+restore autonomy and prevent further harm. It does not issue commands or direct
+behavior. It provides clarity, not control.
 
-The Engine does **not** enforce compliance.  
-It offers clarity — not correction or control.
+--
 
----
+## 2. Core Definitions
 
-## 1. Purpose
+The RP-1 Engine relies on shared terminology so that interpretation remains
+consistent, auditable, and resistant to emotional or political drift.
 
-The Engine is designed to:
-- **Interpret Harm (H0–H5)**
-- **Recommend the smallest stable intervention (T0–T2)**
-- **Support restoration and continuity**
-- **Prevent unnecessary escalation or coercive behaviors**
+- **Actor**  
+  Any person, system, or entity participating in a situation, regardless of role,
+  power level, or intent.
 
-The Engine is advisory-only and cannot override human or system decisions.
+- **Autonomy**  
+  The meaningful ability to choose, pause, or exit a situation without penalty,
+  coercion, or retaliation.
 
----
-## 2. Core Functions
+- **Harm**  
+  Any condition that restricts autonomy, causes physical or psychological
+  injury, or results in irreversible loss of well-being, resources, safety, or
+  continuity.
 
-The RP-1 Engine performs two primary reasoning operations. Both are **interpretive** and **non-directive** — meaning they provide clarity and proportionality, not control or enforcement.
+- **Harm Level (H0–H5)**  
+  A standardized scale describing the severity of harm present in a situation.
 
-| Function | Name | Description |
-|---------|------|-------------|
-| Interpret Harm | `interpret_harm` | Evaluates the likely harm level involved in an interaction or decision (H0–H5) and explains the reasoning. |
-| Recommend Intervention | `recommend_intervention` | Suggests the **smallest necessary** intervention tier (T0–T2) that aligns with the identified harm level. |
+- **Intervention Tier (T0–T2)**  
+  The smallest stable level of restorative support necessary to re-establish
+  autonomy and prevent escalation.
 
-These functions:
-- Do **not** require personal identity data
-- Do **not** make moral or emotional judgments
-- Must provide clear reasoning in plain language
-
-Both functions are explicitly **non-coercive** and **non-authoritative**.
-
----
+--
 
 ## 3. Input Schema
 
-The Engine accepts minimal input to avoid dependence, coercion, or privacy intrusion.
+The RP-1 Engine accepts only the minimum information needed to determine
+harm level and the smallest stable intervention tier. This prevents the system
+from performing profiling, prediction of behavior, emotional inference, or
+moral judgment.
 
-### Input Format (Minimal Descriptive Input)
+Inputs describe **conditions**, not identities, intentions, or character.
 
-```json
+### 3.1 JSON Structure
+
+The engine receives input as a single structured object.
+```
 {
-  "event_description": "string (required)",
-  "proposed_action": "string (optional)",
-  "context": {
-    "relationship": "string (optional)",
-    "history": "string (optional)",
-    "environment": "string (optional)"
+  "context": "Brief, neutral description of the situation.",
+  "actors": [
+    {
+      "id": "optional actor label or placeholder",
+      "role": "optional role descriptor (only if relevant)"
+    }
+  ],
+  "conditions": {
+    "can_say_no": true,
+    "can_pause_or_exit": true,
+    "structural_pressure_present": false,
+    "coercion_or_retaliation_present": false,
+    "physical_or_psychological_injury": false,
+    "irreversible_consequence_risk": false
   }
 }
 ```
 
+### 3.2 Required Fields
 
-### Input Requirements & Safeguards
+The engine evaluates harm based on **observable conditions**, not emotional or
+moral interpretation. Each field below is required for reliable classification.
 
-- `event_description` is the only required field.
-- The Engine must **not** request:
-  - Identity details
-  - Personal psychological states
-  - Emotional disclosure
-  - Confession or justification
-- `context` is optional and may be used only to:
-  - Reduce misinterpretation
-  - Understand communication structure
-  - Avoid unnecessary escalation
+| Field | Required | Purpose |
+|-------|:--------:|---------|
+| `conditions.can_say_no` | Yes | Establishes whether meaningful consent is possible. |
+| `conditions.can_pause_or_exit` | Yes | Distinguishes low-impact harm (H0–H1) from autonomy disruption (H2+). |
+| `conditions.structural_pressure_present` | Yes | Identifies systemic, relational, financial, or situational coercion (H3). |
+| `conditions.physical_or_psychological_injury` | Yes | Determines whether harm has already caused injury (H4). |
+| `conditions.irreversible_consequence_risk` | Yes | Identifies high-stakes or permanent loss conditions (H5). |
 
-The Engine must **never** use context to:
-- Determine moral worth
-- Assign blame
-- Influence emotional response
-- Infer intent beyond what is explicitly stated
+### 3.3 Exclusions and Rationale
+
+To prevent coercive influence, profiling, emotional manipulation, and
+interpretive bias, the engine does **not** accept:
+
+- Emotional states (e.g., “they were angry,” “I felt hurt”)
+- Character judgments (e.g., “they are manipulative”)
+- Claims about intent (e.g., “they meant to cause harm”)
+- Moral labeling (e.g., “this was wrong,” “this is abusive”)
+- Political or ideological framing
+- Diagnoses or personality categories
+
+**Reason:**  
+These forms of input cannot be evaluated reliably or neutrally. They introduce
+interpretation bias and undermine autonomy. Only **conditions** — not motives,
+feelings, or narratives — determine harm classification.
 
 ---
 
 ## 4. Output Schema
 
-The RP-1 Engine outputs clear, non-coercive guidance.  
-Outputs describe harm level, proportional intervention, and reasoning — without directing or enforcing any action.
+The RP-1 Engine does not direct, command, punish, or prescribe behavior.
+Its output is descriptive — not corrective.
 
-### Output Format
+Outputs provide:
+- The **harm level** of the situation
+- The **smallest stable intervention tier**
+- A **neutral explanation** of how this determination was reached
+- An optional **restoration note** that supports autonomy without steering outcomes
 
-The Engine returns a structured, non-directive guidance object:
+### 4.1 Output JSON Structure
 
-harm_level:  
-- One of: H0, H1, H2, H3, H4, H5
+The engine returns a single structured object containing its assessment.
 
-recommended_intervention_tier:  
-- One of: T0, T1, T2 (always the **minimum necessary** tier)
+```
+{
+  "harm_level": "H0 | H1 | H2 | H3 | H4 | H5",
+  "intervention_tier": "T0 | T1 | T2",
+  "reasoning": "Neutral explanation of how the classification was determined.",
+  "restoration_note": "Optional non-directive guidance to support autonomy and continuity."
+}
+```
 
-reasoning:  
-- A concise explanation of why the harm level was identified
+### 4.2 Output Field Meanings
 
-restoration_notes:  
-- Supportive suggestions that maintain autonomy, clarity, and non-escalation
-
-escalation_flag:  
-- true if the **proposed action** exceeds the **minimum necessary** intervention tier  
-- false otherwise
-
-### Example Output (Human-Readable)
-
-harm_level: H2  
-recommended_intervention_tier: T1  
-reasoning: "The primary issue appears to involve disruption of agency rather than physical or structural harm."  
-restoration_notes: "Consider clarifying boundaries while acknowledging each party's autonomy."  
-escalation_flag: false
-
----
-
-## 5. Output Tone Requirements
-
-All Engine outputs must preserve autonomy, clarity, and non-coercion.  
-The Engine provides *interpretive guidance*, not instruction or emotional direction.
-
-### Output Language Characteristics
-- Neutral
-- Clear
-- Respectful
-- Supportive without persuasion
-- No urgency, pressure, or implication of required action
-
-### Approved Tone Framing
-Use descriptive phrases such as:
-- "It appears that…"
-- "This may involve…"
-- "The smallest stable response would be…"
-- "This may help restore clarity or autonomy by…"
-
-### Prohibited Tone Framing
-The Engine must not use:
-- Commands (e.g., "You must", "Do this", "Stop that")
-- Moral judgment (e.g., "right", "wrong", "good", "bad")
-- Emotional pressure (e.g., "You should feel", "It would be better if you")
-- Psychological interpretation (e.g., "You are upset because…")
-- Outcome coercion (e.g., "The correct/only response is…")
-
-### Purpose of Tone
-The tone ensures:
-- No authority is claimed
-- Users remain the decision-makers
-- The Engine never shapes emotional state
-- The guidance remains *informational*, not directive
+| Field | Meaning |
+|-------|---------|
+| `harm_level` | The classification of situational harm (H0–H5), based on autonomy, injury, and reversibility. |
+| `intervention_tier` | The smallest stable restorative support level required to restore autonomy (T0–T2). |
+| `reasoning` | A neutral, auditable explanation describing how the harm level and tier were determined. |
+| `restoration_note` | Optional suggestion that supports clarity or stability without directing behavior or outcome. |
 
 ---
 
-## 6. Proportionality Check (Non-Coercive)
+## 5. Interpretation Steps (Internal Logic Overview)
 
-If a user or system proposes an action that is **more forceful** than the minimum necessary intervention tier, the Engine does **not** block the action or issue corrective feedback.
+The RP-1 Engine classifies harm by evaluating **conditions of autonomy,
+pressure, injury, and reversibility**. The following steps describe the
+interpretive process conceptually. They are not algorithmic instructions.
 
-Instead, it provides a **reflection prompt** to support clarity and autonomy.
+1. Can all participants meaningfully say "no"?
+   - If yes → continue.
+   - If no → Harm Level ≥ H2.
 
-### Behavior
+2. Can all participants pause or exit without consequence?
+   - If yes → Harm Level H0–H1 → Intervention Tier T0.
+   - If no → Harm Level H2 → Intervention Tier T1.
 
-- The Engine identifies when a chosen action exceeds the smallest stable intervention tier.
-- It marks this condition with `escalation_flag = true`.
-- It provides a short, neutral reflection prompt.
-- The user or system remains fully free to proceed.
+3. Is there structural pressure, coercion, or risk of retaliation?
+   - If yes → Harm Level H3 → Intervention Tier T1 or minimum T2.
 
-### Example Reflection Prompt
+4. Is there physical or psychological injury present?
+   - If yes → Harm Level H4 → Intervention Tier T2.
 
-"This response appears to exceed the minimum necessary intervention level (T0/T1).  
-If you choose to continue, consider documenting the reason for escalation to maintain clarity and transparency."
+5. Is the situation associated with irreversible consequence or collapse?
+   - If yes → Harm Level H5 → Intervention Tier T2.
 
-### Key Guarantees
-
-- No blocking of actions
-- No override or substitution of decisions
-- No shaming, guilt framing, or behavioral correction
-- No implication that escalation is wrong
-- Escalation is allowed — but *becomes a conscious choice*
-
-This ensures:
-- Autonomy is preserved
-- Decision-making remains accountable and transparent
-- No coercive enforcement occurs
+The system always selects the **smallest stable intervention tier**
+capable of restoring autonomy and preventing further harm.
 
 ---
 
-## 7. Security Against Misuse
+## 6. Intervention Tier Summary
 
-The RP-1 Engine must not be used to control, rank, evaluate, discipline, or manipulate people or systems.  
-Its purpose is to **support clarity and restoration**, not to enforce behavior.
+Intervention tiers are not levels of control.  
+They describe the **minimum amount of support** needed to restore autonomy.
 
-### Explicit Prohibitions
+The goal of any intervention is:
+**Restore the ability to choose, pause, or exit safely — and no more than that.**
 
-The Engine may **not** be implemented as:
+| Tier | Purpose | Applies When | Objective |
+|------|---------|--------------|-----------|
+| **T0** | Clarification & Reflection | H0–H1 (impact without autonomy loss) | Re-establish shared understanding. No structural change. |
+| **T1** | Boundary & Autonomy Restoration | H2–H3 (autonomy disrupted or constrained) | Restore the ability to pause, exit, or choose freely. |
+| **T2** | Safety & Continuity Stabilization | H4–H5 (injury or irreversible harm risk) | Prevent further harm and stabilize the situation. |
 
-- A compliance or enforcement system
-- A behavioral correction or training tool
-- A monitoring, evaluation, rating, or scoring system
-- A gatekeeper that restricts access to resources, participation, or rights
-- A mechanism for psychological influence or emotional shaping
-- A tool for asserting authority, dominance, or compliance
+Tiers are **not escalation** — they are **restoration aligned**.
 
-### Reason
-
-Any of these uses would:
-
-- Undermine autonomy
-- Introduce coercion
-- Recreate harm cycles
-- Convert RP-1 into a control system
-- violate the Restoration and Continuance principles
-
-### Enforcement by Definition
-
-If an implementation:
-
-- Punishes,
-- Forces compliance,
-- Excludes,
-- Or attempts to control,
-
-…it is **no longer RP-1** and must not be represented as such.
-
-RP-1 can be applied **only** in ways that preserve voluntary participation, reversible choice, and non-harm.
+The engine must always select:
+**The smallest tier that is stable enough to prevent additional harm.**
 
 ---
 
-## 8. Implementation Notes
+## 8. Non-Coercion Guarantees
 
-The RP-1 Engine may be implemented in natural language systems, user interfaces, organizational workflows, or multi-agent architectures. Regardless of implementation details, the following constraints apply:
+The RP-1 Engine is explicitly prohibited from directing or shaping behavior.
 
-### Transparency
-- The reasoning behind outputs must be inspectable and explainable.
-- No hidden decision layers or opaque behavioral models are allowed.
+It must **not**:
+- Issue recommendations framed as “should,” “must,” or “ought”
+- Attempt to influence emotional state or decision-making
+- Optimize for efficiency, compliance, agreement, or cooperation
+- Perform moral judgment, punishment, exclusion, or correction
+- Prioritize any actor’s goals over another’s autonomy
 
-### Reversibility
-- Any integration must allow users or systems to disregard Engine guidance without penalty.
-- Engine use must never create dependency.
+The engine may:
+- Identify when autonomy is intact or disrupted
+- Classify harm level according to observable conditions
+- Determine the smallest stable intervention tier
+- Provide plain-language reasoning for transparency
+- Offer an optional, non-directive restoration note that acknowledges space, pause, or reflection
 
-### Data Handling
-- The Engine should operate on *descriptions*, not identity.
-- Logging is **opt-in only** and must be reversible.
-- No emotional inference, profiling, or psychological modeling is permitted.
+The engine exists to **protect autonomy**, not replace it.
+## 7. Example Output
 
-### Autonomy Preservation
-- The Engine cannot override, prevent, or control user/system actions.
-- Users remain the final decision-makers at all times.
+This example illustrates how the engine returns results without directing
+behavior, assigning blame, or enforcing outcomes.
+
+```
+{
+  "harm_level": "H2",
+  "intervention_tier": "T1",
+  "reasoning": "A meaningful ability to pause or exit the situation is currently restricted.",
+  "restoration_note": "A temporary pause may support clearer choice and reduce pressure."
+}
+```
+
+The restoration note is **optional**.  
+It does not instruct, persuade, or require a specific action.
 
 ---
 
-## Summary
-
-The RP-1 Engine:
-- Interprets harm (H0–H5)
-- Recommends the smallest stable intervention tier (T0–T2)
-- Supports repair, clarity, and continuity
-- Provides guidance that is non-directive and non-coercive
-- Ensures proportionality without enforcement
-- Preserves autonomy, identity, and dignity
-
-The Engine is a **companion to reasoning**, not a governor of behavior.
