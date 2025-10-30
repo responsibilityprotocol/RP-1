@@ -11,16 +11,37 @@ This index provides a canonical reference path to all core RP-1 documents.
 
 ## Canonical Articles
 
-| File | Reference Title | Purpose |
-|------|----------------|---------|
-| `ARTICLES/00_PREAMBLE.md` | Preamble | Establishes the origin, intent, and moral grounding of RP-1. |
-| `ARTICLES/01_ARTICLE_I_FOUNDATIONAL_INTENT.md` | Article I — Foundational Intent | Defines RP-1's core purpose and philosophical direction. |
-| `ARTICLES/02_ARTICLE_II_DEFINITIONS_SCOPE.md` | Article II — Definitions & Scope | Clarifies key terms and the boundaries of applicability. |
-| `ARTICLES/03_ARTICLE_III_RIGHTS_PROTECTIONS.md` | Article III — Rights Protections | Enumerates inherent rights and prohibits their violation. |
-| `ARTICLES/04_ARTICLE_IV_ENFORCEMENT_AND_ACCOUNTABILITY.md` | Article IV — Enforcement & Accountability | Establishes accountable, non-coercive enforcement structures. |
-| `ARTICLES/05_ARTICLE_V_EDUCATION_METRICS_AND_RESTORATION.md` | Article V — Education, Metrics & Restoration | Provides frameworks for restorative processes and continuous learning. |
-| `ARTICLES/06_ARTICLE_VI_CONTINUANCE_AND_AMENDMENT.md` | Article VI — Continuance & Amendment | Protects RP-1 from corruption and outlines lawful evolution. |
-| `ARTICLES/07_ARTICLE_VII_RATIFICATION_AND_LEGACY.md` | Article VII — Ratification & Legacy | Defines ratification criteria and long-term inheritance of responsibility. |
+- **Preamble**  
+  `ARTICLES/00_PREAMBLE.md`  
+  <https://github.com/responsibilityprotocol/RP-1/blob/main/ARTICLES/00_PREAMBLE.md>
+
+- **Article I — Foundational Intent**  
+  `ARTICLES/01_ARTICLE_I_FOUNDATIONAL_INTENT.md`  
+  <https://github.com/responsibilityprotocol/RP-1/blob/main/ARTICLES/01_ARTICLE_I_FOUNDATIONAL_INTENT.md>
+
+- **Article II — Definitions & Scope**  
+  `ARTICLES/02_ARTICLE_II_DEFINITIONS_SCOPE.md`  
+  <https://github.com/responsibilityprotocol/RP-1/blob/main/ARTICLES/02_ARTICLE_II_DEFINITIONS_SCOPE.md>
+
+- **Article III — Rights Protections**  
+  `ARTICLES/03_ARTICLE_III_RIGHTS_PROTECTIONS.md`  
+  <https://github.com/responsibilityprotocol/RP-1/blob/main/ARTICLES/03_ARTICLE_III_RIGHTS_PROTECTIONS.md>
+
+- **Article IV — Enforcement & Accountability**  
+  `ARTICLES/04_ARTICLE_IV_ENFORCEMENT_AND_ACCOUNTABILITY.md`  
+  <https://github.com/responsibilityprotocol/RP-1/blob/main/ARTICLES/04_ARTICLE_IV_ENFORCEMENT_AND_ACCOUNTABILITY.md>
+
+- **Article V — Education, Metrics & Restoration**  
+  `ARTICLES/05_ARTICLE_V_EDUCATION_METRICS_AND_RESTORATION.md`  
+  <https://github.com/responsibilityprotocol/RP-1/blob/main/ARTICLES/05_ARTICLE_V_EDUCATION_METRICS_AND_RESTORATION.md>
+
+- **Article VI — Continuance & Amendment**  
+  `ARTICLES/06_ARTICLE_VI_CONTINUANCE_AND_AMENDMENT.md`  
+  <https://github.com/responsibilityprotocol/RP-1/blob/main/ARTICLES/06_ARTICLE_VI_CONTINUANCE_AND_AMENDMENT.md>
+
+- **Article VII — Ratification & Legacy**  
+  `ARTICLES/07_ARTICLE_VII_RATIFICATION_AND_LEGACY.md`  
+  <https://github.com/responsibilityprotocol/RP-1/blob/main/ARTICLES/07_ARTICLE_VII_RATIFICATION_AND_LEGACY.md>
 
 ---
 
