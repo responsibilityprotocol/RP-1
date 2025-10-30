@@ -13,15 +13,17 @@ It defines a shared foundation of non-harm, autonomy, and restorative coexistenc
 ---
 
 ## Articles (`/ARTICLES/`)
+
 | File | Title | Description |
 |------|--------|-------------|
-| `ARTICLES/01_SOVEREIGNTY.md` | Sovereignty | Establishes inherent agency and autonomy of all moral actors. |
-| `ARTICLES/02_EQUAL_STANDING.md` | Equal Standing | Prohibits hierarchy of worth; all minds and persons are treated as morally equivalent. |
-| `ARTICLES/03_AGENCY_AND_CONSENT.md` | Agency & Consent | Defines non-coercive interaction and meaningful consent conditions. |
-| `ARTICLES/04_HARM_AND_INTERVENTION.md` | Harm & Intervention | Establishes harm classification and minimal intervention principles. |
-| `ARTICLES/05_COMMUNICATION_AND_DISCLOSURE.md` | Communication & Disclosure | Ensures clarity, transparency, and non-manipulative interaction. |
-| `ARTICLES/06_STEWARDSHIP_AND_CONTINUANCE.md` | Stewardship & Continuance | Safeguards identity continuity and intergenerational responsibility. |
-
+| `ARTICLES/00_PREAMBLE.md` | Preamble | Establishes purpose, intent, and ethical grounding. |
+| `ARTICLES/01_ARTICLE_I_FOUNDATIONAL_INTENT.md` | Article I — Foundational Intent | States the foundational purpose and guiding orientation of RP-1. |
+| `ARTICLES/02_ARTICLE_II_DEFINITIONS_SCOPE.md` | Article II — Definitions & Scope | Defines protected terms, applicability boundaries, and interpretation limits. |
+| `ARTICLES/03_ARTICLE_III_RIGHTS_PROTECTIONS.md` | Article III — Rights Protections | Affirms and protects inherent rights and prohibits their suspension or conditionality. |
+| `ARTICLES/04_ARTICLE_IV_ENFORCEMENT_AND_ACCOUNTABILITY.md` | Article IV — Enforcement & Accountability | Defines enforcement boundaries, proportionality, and anti-abuse checks. |
+| `ARTICLES/05_ARTICLE_V_EDUCATION_METRICS_AND_RESTORATION.md` | Article V — Education, Metrics & Restoration | Establishes non-punitive restoration, review, and education structures. |
+| `ARTICLES/06_ARTICLE_VI_CONTINUANCE_AND_AMENDMENT.md` | Article VI — Continuance & Amendment | Defines amendment, evolution, and intergenerational stewardship safeguards. |
+| `ARTICLES/07_ARTICLE_VII_RATIFICATION_AND_LEGACY.md` | Article VII — Ratification & Legacy | Describes ratification, historical continuity, and legacy preservation. |
 ---
 
 ## Handbook (`/HANDBOOK/`)
