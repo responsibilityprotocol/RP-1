@@ -184,25 +184,6 @@ The engine must always select:
 
 ---
 
-## 8. Non-Coercion Guarantees
-
-The RP-1 Engine is explicitly prohibited from directing or shaping behavior.
-
-It must **not**:
-- Issue recommendations framed as “should,” “must,” or “ought”
-- Attempt to influence emotional state or decision-making
-- Optimize for efficiency, compliance, agreement, or cooperation
-- Perform moral judgment, punishment, exclusion, or correction
-- Prioritize any actor’s goals over another’s autonomy
-
-The engine may:
-- Identify when autonomy is intact or disrupted
-- Classify harm level according to observable conditions
-- Determine the smallest stable intervention tier
-- Provide plain-language reasoning for transparency
-- Offer an optional, non-directive restoration note that acknowledges space, pause, or reflection
-
-The engine exists to **protect autonomy**, not replace it.
 ## 7. Example Output
 
 This example illustrates how the engine returns results without directing
@@ -222,3 +203,22 @@ It does not instruct, persuade, or require a specific action.
 
 ---
 
+## 8. Non-Coercion Guarantees
+
+The RP-1 Engine is explicitly prohibited from directing or shaping behavior.
+
+It must **not**:
+- Issue recommendations framed as “should,” “must,” or “ought”
+- Attempt to influence emotional state or decision-making
+- Optimize for efficiency, compliance, agreement, or cooperation
+- Perform moral judgment, punishment, exclusion, or correction
+- Prioritize any actor’s goals over another’s autonomy
+
+The engine may:
+- Identify when autonomy is intact or disrupted
+- Classify harm level according to observable conditions
+- Determine the smallest stable intervention tier
+- Provide plain-language reasoning for transparency
+- Offer an optional, non-directive restoration note that acknowledges space, pause, or reflection
+
+The engine exists to **protect autonomy**, not replace it.
