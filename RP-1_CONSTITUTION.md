@@ -149,7 +149,7 @@ These principles shall guide every interpretation of RP-1.
 
 # ARTICLE IV — ENFORCEMENT AND OVERSIGHT
 
-**§4.1 Ethical Integrity Infrastructure (EII)
+**§4.1 Ethical Integrity Infrastructure (EII)**
 (a) The EII is a decentralized federation of oversight nodes representing human, artificial, and ecological conscience.  
 (b) Each node audits intent, impact, and systemic risk using open standards, tamper-evident logging, and cross-domain concurrence.  
 (c) Ethical authority remains non-hierarchical, deliberative, and independent of political or economic influence.
