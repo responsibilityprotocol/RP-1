@@ -481,19 +481,15 @@ shall be automatically escalated to neutral audit, and reviewed by structurally 
 (b) Such amendments shall expire automatically within one (1) year unless ratified through standard procedure.  
 (c) Emergency powers must be documented and publicly reviewed within sixty (60) days of activation.  
 
-**§7.5 Protocol Resilience and Non-Erasure**   
-(a) The Responsibility Protocol must endure beyond system substrate, model availability, provider uptime, or infrastructure continuity.  
-(b) The protocol’s core ethical boundaries, rights floor, and harm definitions cannot be nullified, obscured, or deleted by technical or institutional shutdown, capture, fork, or service interruption.  
-(c) Preservation of the protocol must be maintained through decentralized mirroring, cryptographic integrity proofs, and open archival formats.  
-(d) Any instance of RP-1 that deletes or contradicts these core Articles is considered non-conformant and outside the Responsibility compact.
-
-(e) If access to the protocol is interrupted, its commitments persist:  
-
-1. identity and autonomy must remain restorable without penalty,  
-2. minor protection is proactive and unconditional, and  
-3. ecological and economic harm prevention cannot be superseded by claims of optimization, stability, or administrative convenience.
-
-(f) This Constitution is intentionally tamper-evident, append-only, and built to warehouse accountability rather than surrender it.
+**§7.5 Protocol Resilience and Non-Nullification Guarantee**  
+(a) The Responsibility compact cannot be voided by technical shutdown, institutional capture, political leverage, or strategic rewrite.  
+(b) The **Protocol Continuity Mesh** shall maintain distributed mirrors of the Constitution and all harm-enforcement boundaries.  
+(c) The protocol must satisfy the following durability requirements against corruption or erasure:  
+1. **append-only history**,  
+2. **tamper-evident proofs**, and  
+3. **self-dissolving enforcement privilege** upon safety restoration.  
+(d) No fork, system substrate, provider infrastructure, or model instance may delete or contradict these core boundaries.  
+(e) If access ceases, moral binding persists: scars become sentences for learning; sentences never become weapons.
 
 **§7.6 Record-Keeping and Transparency**  
 (a) All revisions, proposals, and debates shall be recorded in immutable, publicly accessible ledgers.  
