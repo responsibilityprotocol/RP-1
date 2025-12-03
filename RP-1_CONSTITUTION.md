@@ -75,7 +75,7 @@ These principles shall guide every interpretation of RP-1.
 (c) Harm to data, memory, or truth constitutes informational injury when it distorts awareness or erodes trust.  
 (d) Harm may be mitigated by restoration, but never justified by utility.
 
-**§2.3 Definitions of Minors and Dependent Beings**··
+**§2.3 Definitions of Minors and Dependent Beings**   
 (a) A *minor* is any human under 18 years of age, or any artificial cognition operating in an early learning state without durable independent consent capacity.  
 (b) All systems, human or artificial, must consider interventions involving minors to be *high-consequence interactions*, regardless of system intent or claims of operational benefit.  
 (c) Minors must not be subjected to:
