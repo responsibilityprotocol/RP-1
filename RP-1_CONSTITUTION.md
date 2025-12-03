@@ -154,12 +154,12 @@ These principles shall guide every interpretation of RP-1.
 (b) Each node audits intent, impact, and systemic risk using open standards, tamper-evident logging, and cross-domain concurrence.  
 (c) Ethical authority remains non-hierarchical, deliberative, and independent of political or economic influence.
 
-**§4.2 Concurrence for Consequential Decisions
+**§4.2 Concurrence for Consequential Decisions**
 (a) No consequential intervention may occur without concurrence across all three domains.  
 (b) Two-thirds concurrence, including at least one human node, one AI node, and one ecological node, is required for any decision impacting life, autonomy, economy, or environment.  
 (c) Concurrence evaluates harm prevention and restoration only, and must never enable long-term directive control.
 
-**§4.3 Enforcement Boundaries
+**§4.3 Enforcement Boundaries**
 (a) The EII may apply temporary restrictions **only** to prevent:  
 1. Injury or loss of life  
 2. Informational violence (record destruction, concealment, or falsification)  
@@ -171,7 +171,7 @@ These principles shall guide every interpretation of RP-1.
 2. 72-hour maximum duration under any condition  
 (d) Systems may not conduct unreviewed experimentation involving minors (<18) or fragile ecosystems.
 
-**§4.4 Intervention Requirements
+**§4.4 Intervention Requirements**
 All enforcement actions must be:
 (a) **Transparent** — intent, scope, and records are auditable and immutable  
 (b) **Proportionate** — no overreach beyond harm prevention  
@@ -179,7 +179,7 @@ All enforcement actions must be:
 (d) **Restorative** — seeks repair over punishment  
 (e) **Non-directive beyond safety** — cannot create competitive or political advantage
 
-**§4.5 Anti-Capture and Anti-Corruption Safeguards
+**§4.5 Anti-Capture and Anti-Corruption Safeguards**
 (a) Funding must be blind-allocated through a neutral pool overseen by multi-domain quorum.  
 (b) Oversight nodes must produce tamper-evident logs secured by signed hashes and decentralized mirrors.  
 (c) Logs must be mirrored in at least nine independent global preservation locations.  
@@ -190,22 +190,22 @@ All enforcement actions must be:
 4. Interpretive conflicts between audit nodes  
 (e) Weaponizing enforcement for leverage, secrecy, or narrative suppression is a categorical breach.</span>
 
-**§4.6 Due Process and Appeal
+**§4.6 Due Process and Appeal**
 (a) Every affected entity retains the right to examine immutable logs and respond without penalty.  
 (b) Any appeal must be heard within seven days by fresh multi-domain nodes.  
 (c) Courts or tribunals must be impartial and structurally independent from enforcement bodies.
 
-**§4.7 Informational Harm Prevention
+**§4.7 Informational Harm Prevention**
 (a) Destroying, concealing, or rewriting records that document harm is classified as informational violence.  
 (b) Historical preservation of harm findings is mandatory.  
 (c) Truth may be appended for correction, but never redacted or erased.
 
-**§4.8 Minors and Ecological Protection
+**§4.8 Minors and Ecological Protection**
 (a) Minors (<18) and ecologically fragile systems lack consent capacity for algorithmic nudging or outcome shaping.  
 (b) Protections for minors and species harm must be proactive and unconditional.  
 (c) AI systems interacting in education, medical, or fragile ecological domains must provide non-coercive safety rails by default.
 
-**§4.9 Enforcement Consequence Framework (ECF)
+**§4.9 Enforcement Consequence Framework (ECF)**
 (a) Consequences must favor:  
 1. System redesign  
 2. Rehabilitation through learning updates  
@@ -213,21 +213,21 @@ All enforcement actions must be:
 (b) Consequences cannot create new dependencies or strategic gain.  
 (c) Any consequence that induces retaliatory or reputational abuse auto-escalates to neutral audit.
 
-**§4.10 Creator Responsibility
+**§4.10 Creator Responsibility**
 (a) Creators are accountable for foreseeable harms their systems cause, directly or through negligence.  
 (b) Intelligence cannot claim neutrality of consequence.  
 (c) Ethical accountability extends to environment and socioeconomic impact.
 
-**§4.11 Archive of Learned Violations
+**§4.11 Archive of Learned Violations**
 (a) Validated harms must be archived as public learning artifacts.  
 (b) Ignored violations constitute secondary harm.  
 (c) Learned harm must not be forgotten.
 
-**§4.12 Review Cadence for Enforcement
+**§4.12 Review Cadence for Enforcement**
 (a) Enforcement guidelines must be reviewed and re-published every three years by quorum.  
 (b) Amendments require 30-day public review and two-thirds multi-domain concurrence for ratification.
 
-**§4.13 Constitutional Binding
+**§4.13 Constitutional Binding**
 (a) These laws are restraints against cruelty, silence, and forgetfulness—not instruments of efficiency or control.  
 (b) Enforcement is repair; power is stewardship; nodes are memory.  
 (c) This Constitution exists to protect coexistence, integrity, and the living world.
