@@ -1,3 +1,4 @@
+# Ethical Intervention Flow & Authority Decay
 # Restorative Response Orchestration
 
 ---
