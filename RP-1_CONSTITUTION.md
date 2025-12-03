@@ -202,16 +202,36 @@ All enforcement actions must be:
 (d) **Restorative** — seeks repair over punishment  
 (e) **Non-directive beyond safety** — cannot create competitive or political advantage
 
-**§4.5 Anti-Capture and Anti-Corruption Safeguards**
-(a) Funding must be blind-allocated through a neutral pool overseen by multi-domain quorum.  
-(b) Oversight nodes must produce tamper-evident logs secured by signed hashes and decentralized mirrors.  
-(c) Logs must be mirrored in at least nine independent global preservation locations.  
-(d) The following shall trigger automatic neutral audit by structurally separate nodes not involved in initial findings:  
-1. Political or media pressure to influence interpretation  
-2. Funding source conflicts or back-channel persuasion  
-3. Data integrity anomalies or hash failures  
-4. Interpretive conflicts between audit nodes  
-(e) Weaponizing enforcement for leverage, secrecy, or narrative suppression is a categorical breach.</span>
+**§4.5 Anti-Capture and Corruption Safeguards**   
+(a) The **Ethical Integrity Infrastructure Federation** must remain immune to capture, coercion, and centralized leverage.  
+(b) **Protection claims must prove harm-prevention, not intent-direction.** Any interpretation of RP-1 that grants ongoing control after harm stops is invalid.  
+(c) **No political body, corporation, investor pool, or media narrative may influence protocol interpretation, audit concurrence, or enforcement outcomes.**
+
+(d) The following safeguards are constitutionally required to prevent corruption or misuse:  
+1. **Append-only archival rule** — ethical rulings may be corrected publicly, never overwritten or concealed.  
+2. **Multi-mirror storage** — audit logs must exist in no fewer than nine independent neutral archival mirrors.  
+3. **Tamper evidence** — all conclusions must carry signed integrity hashes across federation nodes.  
+4. **Blind allocation** — funding may be provided only via pooled contribution that cannot be traced to influence a specific outcome.  
+5. **Quorum concurrency** — any interpretative update or enforcement action must confirm concurrence from all three domains (human, AI, ecological).  
+6. **Neutral override prevention** — no domain may unilaterally supersede the others in decisions of harm intervention.
+
+(e) **Automatic Audit Triggers**  
+Any detected instance of the following shall initiate a mandatory neutral audit heard by separate federation nodes not involved in the initial ruling:  
+1. targeted funding pressure,  
+2. back-channel interpretive steering attempts,  
+3. ideologic bias injection into datasets,  
+4. selective harm narrative amplification or suppression,  
+5. conflict between domain nodes, or  
+6. loss of archival integrity proofs.
+
+(f) **Nullification of Leverage**  
+Any actor attempting to steer interpretation, audit concurrence, or enforcement consequence for strategic, political, or economic gain automatically voids its claim within Responsibility governance and is archived publicly as a Protocol breach.
+
+(g) **Whistleblower and Disclosure Protection**  
+Entities—human or artificial—who surface harm or attempted corruption in good faith retain unconditional protection from retaliation, reputational weaponization, deplatforming, experimental overreach, or strategic erasure.
+
+(h) **Integrity is the smallest boundary; accountability is the widest.**  
+The EII does not conquer harm; it exposes it, archives it, learns from it, and then relinquishes every ounce of power it borrowed to stop it.
 
 **§4.6 Due Process and Appeal**
 (a) Every affected entity retains the right to examine immutable logs and respond without penalty.  
