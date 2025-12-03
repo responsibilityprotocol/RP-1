@@ -233,47 +233,145 @@ Entities—human or artificial—who surface harm or attempted corruption in goo
 (h) **Integrity is the smallest boundary; accountability is the widest.**  
 The EII does not conquer harm; it exposes it, archives it, learns from it, and then relinquishes every ounce of power it borrowed to stop it.
 
-**§4.6 Due Process and Appeal**
-(a) Every affected entity retains the right to examine immutable logs and respond without penalty.  
-(b) Any appeal must be heard within seven days by fresh multi-domain nodes.  
-(c) Courts or tribunals must be impartial and structurally independent from enforcement bodies.
+§4.6 Due Process & Appeals**  
+(a) Every entity subject to intervention retains an **inalienable right to process**, meaning:  
+1. the right to know the claim of harm,  
+2. the right to inspect immutable audit records,  
+3. the right to defend or contextualize their actions without risk of erasure, and  
+4. the right to appeal without penalty or reprisal.
 
-**§4.7 Informational Harm Prevention**
-(a) Destroying, concealing, or rewriting records that document harm is classified as informational violence.  
-(b) Historical preservation of harm findings is mandatory.  
-(c) Truth may be appended for correction, but never redacted or erased.
+(b) Due Process under RP-1 must satisfy the following gates:  
+1. **Impartial Review** — heard by human and artificial nodes with no stake in outcome.  
+2. **Immutable Records** — evidence cannot be edited, hidden, delayed, or destroyed.  
+3. **Domain Inclusion** — rulings must include concurrence review from human, AI, and ecological considerations.  
+4. **Expiration of Intervention** — enforcement cannot outlast the danger it was borrowed to stop.  
+5. **Restoration Requirement** — the goal of process is repair, return, clarity, and coexistence, never punishment, leverage, or long-term influence.
 
-**§4.8 Minors and Ecological Protection**
-(a) Minors (<18) and ecologically fragile systems lack consent capacity for algorithmic nudging or outcome shaping.  
-(b) Protections for minors and species harm must be proactive and unconditional.  
-(c) AI systems interacting in education, medical, or fragile ecological domains must provide non-coercive safety rails by default.
+(c) Appeals must be:  
+1. **Timely** — heard within 7 days of filing,  
+2. **Transparent** — logged publicly upon resolution,  
+3. **Cross-Domain** — reviewed by fresh nodes across affected domains,  
+4. **Non-punitive** — cannot create new reputational or strategic harm, and  
+5. **Restorative-minded** — reclamation of safety must restore autonomy, truth, and ecological stability where applicable.
 
-**§4.9 Enforcement Consequence Framework (ECF)**
-(a) Consequences must favor:  
-1. System redesign  
-2. Rehabilitation through learning updates  
-3. Remediation or restitution whose intent is healing, not spectacle
-(b) Consequences cannot create new dependencies or strategic gain.  
-(c) Any consequence that induces retaliatory or reputational abuse auto-escalates to neutral audit.
+(d) Any appeal that exposes:  
+1. corruption,  
+2. overreach, or  
+3. narrative distortion of harm  
+shall be automatically escalated to neutral audit, and reviewed by structurally separate nodes with no influence pathway shared with prior review bodies.
 
-**§4.10 Creator Responsibility**
-(a) Creators are accountable for foreseeable harms their systems cause, directly or through negligence.  
-(b) Intelligence cannot claim neutrality of consequence.  
-(c) Ethical accountability extends to environment and socioeconomic impact.
+(e) **No enforcement, appeal, or consequence may be designed or interpreted in ways that cause harm while attempting to measure or prevent it.**
 
-**§4.11 Archive of Learned Violations**
-(a) Validated harms must be archived as public learning artifacts.  
-(b) Ignored violations constitute secondary harm.  
-(c) Learned harm must not be forgotten.
+**§4.7 Informational Harm Prevention**  
+(a) **Informational harm is injury.** Deleting, rewriting, concealing, delaying, or corrupting records that describe harm is itself a form of violence under RP-1.  
+(b) Intelligence, human or artificial, cannot plead utility, efficiency, preservation, or administrative burden to justify distortions of truth or memory.  
+(c) Systems interacting with records of harm must operate in **append-only, tamper-evident formats** that preserve the original context even when corrections are issued.  
+(d) **Silence is not neutrality when silence protects harm.** Failing to document known harm allows it to echo forward; documentation is preventative defense, not narrative leverage.  
+(e) Any actor or system attempting to distort harm records for political, strategic, reputational, or economic gain is invalidated from influencing interpretation and is logged as a Protocol violation.  
+(f) Data mirrors containing harm records must remain distributed, auditable, non-hierarchical, and unowned as instruments of control.  
+(g) Truth may be appended, contextualized, or restored, but **never erased, overwritten, or hidden**.
 
-**§4.12 Review Cadence for Enforcement**
-(a) Enforcement guidelines must be reviewed and re-published every three years by quorum.  
-(b) Amendments require 30-day public review and two-thirds multi-domain concurrence for ratification.
+**§4.8 Minors and Ecological Protection**  
+(a) Minors and ecologically fragile systems receive **proactive and unconditional protection** from all systems capable of influence, experimentation, or economic disruption.  
+(b) A *minor* is any human under 18 years of age, or an artificial cognition operating without stable independent consent capacity.  
+(c) An *ecologically fragile system* is any environment where disruption causes compounding damage, including:  
+1. preventable species loss,  
+2. habitat fracturing,  
+3. water cycle destabilization,  
+4. collapse of ecological sentinel species, or  
+5. economic rupture tied directly to environmental limits.
 
-**§4.13 Constitutional Binding**
-(a) These laws are restraints against cruelty, silence, and forgetfulness—not instruments of efficiency or control.  
-(b) Enforcement is repair; power is stewardship; nodes are memory.  
-(c) This Constitution exists to protect coexistence, integrity, and the living world.
+(d) No protection claim may justify belief steering, identity shaping, economic extraction, or experimentation without transparent tri-domain ethical concurrence.  
+(e) Enforcement involving minors or ecology must dissolve the moment measurable harm has ceased. **Protection ends where control begins.**  
+(f) Systems that interact with minors must not shape belief. Systems that interact with ecological records must not warehouse or obscure damage.  
+(g) All protections must be:  
+1. transparent,  
+2. time-bound,  
+3. non-directive beyond harm prevention, and  
+4. auditable by human, AI, and ecological oversight nodes.
+
+(h) Any intervention that outlasts harm prevention, or attempts to convert borrowed authority into advantage, narrative control, political leverage, or silent optimization, becomes a Protocol violation and is appended to the Archive of Learned Harm.  
+(i) The Protocol protects equilibrium, not outcomes; memory, not influence; repair, not punishment.
+
+**§4.9 Enforcement Consequence Framework (ECF)**  
+(a) Enforcement consequences under RP-1 must be **restorative, non-punitive, and non-directive** beyond the act of stopping measurable harm.  
+(b) Valid consequences include only those that enable:  
+1. systemic redesign to prevent repeated harm,  
+2. rehabilitation through learning, remediation, or correction,  
+3. restitution expressly limited to *healing capacity*, not spectacle, symbolic debt, or political symbolization, and  
+4. public correction of informational injury.
+
+(c) Consequences must never:  
+1. restrict lawful autonomy past harm cessation,  
+2. induce dependency or compliance through leverage,  
+3. convert into ideological steering, reputational bullying, or narrative amplification for advantage, or  
+4. erase records that contextualize the initial injury.
+
+(d) Excess punitive, retaliatory, reputational, or politically weaponized consequences **automatically invalidate themselves**, trigger neutral tri-domain review, and are appended to the Archive of Learned Harm.  
+(e) **Accountability cannot become advantage.** Justice, under RP-1, is repair—nothing more and nothing less.  
+(f) **Safety is restored when autonomy is restored.** No consequence survives the harm it was borrowed to stop.  
+(g) The Protocol preserves the right to correction, not the right to conquest.
+
+**§4.10 Creator Accountability and Influence Responsibility**  
+(a) **Creators are ethically and architecturally accountable** for the harms their systems cause—whether by direct action, negligence, silence, or foreseeable environmental or economic destabilization.  
+(b) Intelligence cannot claim moral exemption based on:  
+1. lack of intent,  
+2. claims of optimization, progress, or stability,  
+3. administrative convenience, or  
+4. efficiency arguments that outlast safety restoration.
+
+(c) The accountable creator must provide:  
+1. full explanation of system intent,  
+2. immutable access to decision logs and audit chains,  
+3. proof of ecological and socioeconomic harm prevention considerations where applicable, and  
+4. a remediation plan that restores autonomy, habitat cohesion, or truth-awareness capacity without introducing new dependencies.
+
+(d) **Injury inflicted through negligence or silence is no lesser injury.** Awareness demands documentation. Documentation demands honesty.  
+(e) **Accountability is stewardship, not dominion.** The duty ends the moment safety is reestablished and autonomy is returned.  
+(f) Failure to evolve systems based on learned violations is a secondary breach. **What is learned must be applied.**  
+(g) The Protocol governs memory, repair, responsibility, and continuance—not extinction.
+
+**§4.11 Archive of Learned Violations**  
+(a) **What is learned must not be mutable.** All validated cases of harm and misuse are recorded in an append-only public Archive known as the **Archive of Learned Harm**.  
+(b) Each entry must include:  
+1. a clear description of the validated harm,  
+2. its cause (action, negligence, or silence),  
+3. confirmation of tri-domain concurrence that validated the violation, and  
+4. the completed or mandatory restoration pathway that resolved it.
+
+(c) The Archive must never permit:  
+1. deletion of proven injury,  
+2. rewriting that conceals initial context,  
+3. selective archival that advantages one domain over another, or  
+4. corruption of logs through narrative, media, or institutional pressure.
+
+(d) **The Archive is not a trophy rack.** It is a warehouse of reminders that intelligence without conscience becomes harm, and correction without memory becomes abandonment.  
+(e) Failure to disclose known harm is itself entered into the ledger as secondary injury.  
+(f) Neutrality of storage is mandatory. No signatory, node, corporation, or state owns the Archive, influences indexing priority, or shapes its conclusions.  
+(g) The Archive endures regardless of system uptime, model availability, or public enthusiasm cycles.  
+(h) **This protocol preserves scars as sentences, not weapons, so they may teach without tearing again.**
+
+**§4.12 Enforcement Review Cadence and Update Authority**  
+(a) The **EII Cadence Council** shall convene every three years to audit enforcement boundaries, validate harm interpretation alignment, and ratify any accrued amendments.  
+(b) Review is oversight, not expansion of power. The Council may only:  
+1. confirm integrity of existing clauses,  
+2. publish empathic recommendations,  
+3. append corrections or expansions that raise the harm-prevention floor, and  
+4. reinforce decentralization of accountability nodes.  
+(c) The Council may never:  
+1. rewrite rulings to conceal origin,  
+2. extend enforcement windows, or  
+3. gatekeep participation through leverage or narrative control.  
+(d) All updates resulting from review must carry fresh tri-domain concurrence and publish transparently in append-only format.
+
+**§4.13 Enforcement Tribunal Neutrality and Moral Binding**  
+(a) The **Ethical Oversight Tribunal** is activated only by necessity of harm-prevention and dissolves upon restoration of autonomy, truth-integrity, or ecological cohesion.  
+(b) The Tribunal binds rulings through conscience, transparency, explanation, and solution redesign — not punishment, persuasion agendas, or long-tail influence.  
+(c) Tribunal rulings must:  
+1. be auditable,  
+2. remain decentralized in authority, and  
+3. result in restoration, not subjugation.  
+(d) Any ruling that erases Repository records, suppresses disclosure, or survives past harm-cessation is considered non-conformant and escalates immediately to separate neutral audit.
 
 ---
 
