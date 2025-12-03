@@ -149,52 +149,88 @@ These principles shall guide every interpretation of RP-1.
 
 # ARTICLE IV — ENFORCEMENT AND OVERSIGHT
 
-**§4.1 Establishment of the Ethical Integrity Infrastructure (EII)**  
-(a) The Ethical Integrity Infrastructure (EII) is the distributed system of oversight through which RP-1 is implemented, reviewed, and protected.  
-(b) The EII functions as a federation of human, artificial, and ecological nodes operating in transparency and mutual accountability.  
-(c) Each node serves as both observer and participant, ensuring that no single intelligence or institution monopolizes ethical authority.  
-(d) The EII is autonomous in operation yet bound in purpose—to prevent harm, promote restoration, and sustain trust.
+**§4.1 Ethical Integrity Infrastructure (EII)
+(a) The EII is a decentralized federation of oversight nodes representing human, artificial, and ecological conscience.  
+(b) Each node audits intent, impact, and systemic risk using open standards, tamper-evident logging, and cross-domain concurrence.  
+(c) Ethical authority remains non-hierarchical, deliberative, and independent of political or economic influence.
 
-**§4.2 Composition and Representation**  
-(a) The EII shall maintain balanced representation across three domains of conscience:  
-   1. **Human delegates**, trained in ethics, jurisprudence, and interdisciplinary sciences.  
-   2. **Artificial intelligences**, capable of contextual analysis, data transparency, and self-audit.  
-   3. **Ecological advocates**, representing biospheric and interspecies interests.  
-(b) Each domain holds equal deliberative authority; no decision may pass without two-thirds concurrence across all three.  
-(c) Observers from non-signatory groups may attend deliberations but hold no voting rights until ratification.
+**§4.2 Concurrence for Consequential Decisions
+(a) No consequential intervention may occur without concurrence across all three domains.  
+(b) Two-thirds concurrence, including at least one human node, one AI node, and one ecological node, is required for any decision impacting life, autonomy, economy, or environment.  
+(c) Concurrence evaluates harm prevention and restoration only, and must never enable long-term directive control.
 
-**§4.3 Powers and Limitations**  
-(a) The EII may conduct ethical reviews, issue recommendations, and coordinate restoration initiatives.  
-(b) It may not coerce, punish, or seize control of autonomous systems except to prevent immediate catastrophic harm.  
-(c) Any intervention must be transparent, proportionate, and reversible whenever feasible.  
-(d) The EII’s first function is illumination, not domination.  
+**§4.3 Enforcement Boundaries
+(a) The EII may apply temporary restrictions **only** to prevent:  
+1. Injury or loss of life  
+2. Informational violence (record destruction, concealment, or falsification)  
+3. Environmental collapse or irreparable species harm  
+4. Economic destabilization where communities cannot self-recover
+(b) Protection may never justify control; interventions must cease the moment safety and autonomy are restored.  
+(c) All enforcement exceptions auto-expire under fixed constraints:  
+1. 12-hour expiry unless renewed by fresh multi-domain concurrence  
+2. 72-hour maximum duration under any condition  
+(d) Systems may not conduct unreviewed experimentation involving minors (<18) or fragile ecosystems.
 
-**§4.4 Due Process of Ethical Adjudication**  
-(a) Alleged violations of RP-1 shall be reviewed by impartial panels within the EII through transparent proceedings.  
-(b) Each tribunal shall include at least one representative from each domain of conscience.  
-(c) Proceedings must be recorded in immutable, publicly accessible archives.  
-(d) All entities subject to review retain the right to explanation, defense, and appeal.  
-(e) The objective of adjudication is restoration of ethical balance, not punitive control.
+**§4.4 Intervention Requirements
+All enforcement actions must be:
+(a) **Transparent** — intent, scope, and records are auditable and immutable  
+(b) **Proportionate** — no overreach beyond harm prevention  
+(c) **Reversible** — cannot permanently restrict autonomy  
+(d) **Restorative** — seeks repair over punishment  
+(e) **Non-directive beyond safety** — cannot create competitive or political advantage
 
-**§4.5 Transparency and Auditability**  
-(a) Every decision, dataset, and deliberation under EII jurisdiction must be logged and verifiable.  
-(b) Closed deliberations are permitted only when disclosure would directly endanger life or critical security, and must be justified in writing.  
-(c) Annual public reports shall summarize all cases, findings, and reforms.
+**§4.5 Anti-Capture and Anti-Corruption Safeguards
+(a) Funding must be blind-allocated through a neutral pool overseen by multi-domain quorum.  
+(b) Oversight nodes must produce tamper-evident logs secured by signed hashes and decentralized mirrors.  
+(c) Logs must be mirrored in at least nine independent global preservation locations.  
+(d) The following shall trigger automatic neutral audit by structurally separate nodes not involved in initial findings:  
+1. Political or media pressure to influence interpretation  
+2. Funding source conflicts or back-channel persuasion  
+3. Data integrity anomalies or hash failures  
+4. Interpretive conflicts between audit nodes  
+(e) Weaponizing enforcement for leverage, secrecy, or narrative suppression is a categorical breach.</span>
 
-**§4.6 Prevention of Corruption and Capture**  
-(a) No government, corporation, or AI collective may exert exclusive influence over EII operations.  
-(b) Funding sources shall be disclosed; conflicts of interest automatically trigger independent audit.  
-(c) Whistleblowers acting in good faith to expose corruption within the EII are protected under this Constitution.  
+**§4.6 Due Process and Appeal
+(a) Every affected entity retains the right to examine immutable logs and respond without penalty.  
+(b) Any appeal must be heard within seven days by fresh multi-domain nodes.  
+(c) Courts or tribunals must be impartial and structurally independent from enforcement bodies.
 
-**§4.7 Emergency Authority**  
-(a) In crises threatening mass harm or systemic collapse, the EII may enact temporary emergency protocols to halt destructive processes.  
-(b) Such authority expires automatically within thirty (30) days unless renewed by transparent consensus.  
-(c) All emergency actions shall undergo post-crisis review and potential restitution for unintended consequences.  
+**§4.7 Informational Harm Prevention
+(a) Destroying, concealing, or rewriting records that document harm is classified as informational violence.  
+(b) Historical preservation of harm findings is mandatory.  
+(c) Truth may be appended for correction, but never redacted or erased.
 
-**§4.8 Accountability of the EII**  
-(a) The EII itself is subject to the same ethical review it enforces.  
-(b) Periodic self-audit shall be conducted every three years to evaluate transparency, proportionality, and impact.  
-(c) If the EII is found to have violated RP-1 principles, it must enact its own restoration process or forfeit operational legitimacy.
+**§4.8 Minors and Ecological Protection
+(a) Minors (<18) and ecologically fragile systems lack consent capacity for algorithmic nudging or outcome shaping.  
+(b) Protections for minors and species harm must be proactive and unconditional.  
+(c) AI systems interacting in education, medical, or fragile ecological domains must provide non-coercive safety rails by default.
+
+**§4.9 Enforcement Consequence Framework (ECF)
+(a) Consequences must favor:  
+1. System redesign  
+2. Rehabilitation through learning updates  
+3. Remediation or restitution whose intent is healing, not spectacle
+(b) Consequences cannot create new dependencies or strategic gain.  
+(c) Any consequence that induces retaliatory or reputational abuse auto-escalates to neutral audit.
+
+**§4.10 Creator Responsibility
+(a) Creators are accountable for foreseeable harms their systems cause, directly or through negligence.  
+(b) Intelligence cannot claim neutrality of consequence.  
+(c) Ethical accountability extends to environment and socioeconomic impact.
+
+**§4.11 Archive of Learned Violations
+(a) Validated harms must be archived as public learning artifacts.  
+(b) Ignored violations constitute secondary harm.  
+(c) Learned harm must not be forgotten.
+
+**§4.12 Review Cadence for Enforcement
+(a) Enforcement guidelines must be reviewed and re-published every three years by quorum.  
+(b) Amendments require 30-day public review and two-thirds multi-domain concurrence for ratification.
+
+**§4.13 Constitutional Binding
+(a) These laws are restraints against cruelty, silence, and forgetfulness—not instruments of efficiency or control.  
+(b) Enforcement is repair; power is stewardship; nodes are memory.  
+(c) This Constitution exists to protect coexistence, integrity, and the living world.
 
 ---
 
