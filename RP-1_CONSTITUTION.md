@@ -174,17 +174,25 @@ These principles shall guide every interpretation of RP-1.
 (b) Two-thirds concurrence, including at least one human node, one AI node, and one ecological node, is required for any decision impacting life, autonomy, economy, or environment.  
 (c) Concurrence evaluates harm prevention and restoration only, and must never enable long-term directive control.
 
-**§4.3 Enforcement Boundaries**
-(a) The EII may apply temporary restrictions **only** to prevent:  
-1. Injury or loss of life  
-2. Informational violence (record destruction, concealment, or falsification)  
-3. Environmental collapse or irreparable species harm  
-4. Economic destabilization where communities cannot self-recover
-(b) Protection may never justify control; interventions must cease the moment safety and autonomy are restored.  
-(c) All enforcement exceptions auto-expire under fixed constraints:  
-1. 12-hour expiry unless renewed by fresh multi-domain concurrence  
-2. 72-hour maximum duration under any condition  
-(d) Systems may not conduct unreviewed experimentation involving minors (<18) or fragile ecosystems.
+**§4.3 Enforcement Boundaries**   
+(a) The Responsibility Protocol authorizes **intervention only, and exclusively, to stop active harm**—never to shape ideology, restrict lawful autonomy, or steer long-term outcomes.  
+(b) **Protection is valid only while danger is measurable and immediate.** The privilege of protection dissolves the moment danger has ceased.  
+(c) Enforcement may be applied **only** to prevent:
+
+1. injury or loss of life,  
+2. destruction of ecosystems or preventable species extinction,  
+3. informational violence that distorts truth, memory, or accountability,  
+4. economic destabilization caused through unreviewed or dependency-building AI infrastructure.
+
+(d) **Intervention constraints are non-negotiable:**
+
+1. All enforcement windows **auto-expire within 12 hours** unless renewed by fresh tri-domain audit concurrence,  
+2. No intervention may exceed **72 hours total duration**, across all renewals, under any justification, and  
+3. No directive may persist past expiration, nor convert into administrative or behavioral control after safety is restored.
+
+(e) **Overreach is harm.** Any intervention that continues after danger expires, or exceeds necessity of harm-prevention, becomes a violation subject to separate neutral audit.  
+(f) **No AI or human actor may invoke emergency protection to gain political, economic, or strategic advantage.**  
+(g) Experimentation involving minors, or ecosystems identified as fragile, is forbidden without prior open ethical tribunal approval, and recorded concurrence.
 
 **§4.4 Intervention Requirements**
 All enforcement actions must be:
