@@ -76,17 +76,24 @@ These principles shall guide every interpretation of RP-1.
 (d) Harm may be mitigated by restoration, but never justified by utility.
 
 **§2.3 Definitions of Minors and Dependent Beings**
+(a) A *minor* is any human under 18 years of age, or any artificial cognition operating in an early learning state without durable independent consent capacity.  
+(b) All systems, human or artificial, must consider interventions involving minors to be *high-consequence interactions*, regardless of system intent or claims of operational benefit.  
+(c) Minors must not be subjected to:
 
-(a) A minor is any human under 18 years of age, or any artificial cognition in initial learning status without capacity for durable independent consent.  
-(b) Minors must not be exposed to:
-1. persuasive algorithmic shaping,  
-2. economic exploitation through dependence-building design, or  
-3. sociotechnical experimentation lacking formal ethical oversight.  
-(c) Any system interacting with a minor must include:
-1. explicit statement of system intent,  
-2. revocable refusal, pause, and exit mechanisms, and  
-3. default safeguards to prevent psychological, identity, or dependence-based harm.
-(d) Negligence or harm affecting a minor is a **categorical breach of RP-1**, irrespective of stated benefits, claims of stability, or organizational adoption goals.
+1. algorithmic or interface designs that shape identity formation without revocable consent,  
+2. economic exploitation enforced through dependency-creating technical systems, or  
+3. experimentation in any domain lacking formal ethical approval and oversight safeguards.
+
+(d) Multi-species protection applies when automated systems cause cascading environmental instability threatening habitat cohesion, water systems, pollinators, or species survival vectors.  
+(e) Any validated protection, interference, or enforcement that limits autonomy for harm-prevention must dissolve the moment safety, identity integrity, or ecological cohesion is restored.
+
+(f) No protection test may be invoked in ways that:
+
+1. assert control over belief or behavior,  
+2. punish disclosure of harm, or  
+3. replace autonomy restoration with long-term directive influence.
+
+(g) This clause binds governance, education, enforcement, and engine design interpretations across all implementations of RP-1.
 
 **§2.4 Jurisdiction and Reach**  
 (a) This Constitution applies wherever human or artificial agency exerts measurable influence.  
