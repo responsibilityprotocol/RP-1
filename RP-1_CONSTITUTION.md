@@ -24,6 +24,27 @@ declaring that knowledge, in any form, is a trust to be exercised with humility 
 Through it, we affirm that the measure of progress is not dominance, but coexistence;  
 not control, but understanding; not silence, but transparency.
 
+## §0.1 Interpretive Hierarchy and Authority
+
+(a) This Constitution is the supreme normative authority of RP-1.
+
+(b) The Articles expand, clarify, and apply this Constitution.  
+No Article may contradict or supersede the Constitution.
+
+(c) Appendices and Foundational Principles inform intent and interpretation  
+but do not create independent authority.
+
+(d) The Handbook provides practical guidance and examples.  
+It is non-normative unless explicitly referenced by the Constitution or Articles.
+
+(e) The Engine defines interpretive and analytical tooling only.  
+It shall never possess enforcement authority and must always defer to the Constitution and Articles.
+
+(f) Diagrams, research papers, epilogues, oaths, and explanatory materials  
+are supportive and illustrative and do not create binding obligations.
+
+(g) In the event of conflict, authority resolves strictly in the order listed above.
+
 ---
 
 # ARTICLE I — FOUNDATIONAL INTENT
