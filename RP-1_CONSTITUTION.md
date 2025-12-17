@@ -24,7 +24,7 @@ declaring that knowledge, in any form, is a trust to be exercised with humility 
 Through it, we affirm that the measure of progress is not dominance, but coexistence;  
 not control, but understanding; not silence, but transparency.
 
-**§0.1 Interpretive Hierarchy and Authority**
+**§0.1 Interpretive Hierarchy and Authority**   
 (a) This Constitution is the supreme normative authority of RP-1.
 
 (b) The Articles expand, clarify, and apply this Constitution.  
