@@ -5,6 +5,8 @@ RP-1 is a relational autonomy and harm-prevention framework.
 Legal, regulatory, and technical systems are often optimized to prevent discrete failures or violations.  
 RP-1 is designed to address a different class of risk: the gradual erosion of meaningful choice, agency, and ecological stability in the name of efficiency, safety, or progress.
 
+---
+
 ## Orientation
 
 RP-1 is not a law, a compliance checklist, or an enforcement regime.  
@@ -18,6 +20,8 @@ For this reason, RP-1 prioritizes transparency, traceability, and restoration ov
 
 This repository is intentionally structured to separate **intent**, **governance**, **application**, and **interpretation**.  
 Readers should treat the Constitution and Articles as normative, and all other materials as supportive unless explicitly stated otherwise.
+
+---
 
 ## Start Here
 
@@ -36,37 +40,7 @@ Readers should treat the Constitution and Articles as normative, and all other m
 5. **Changelog (Traceability)**  
    → [CHANGELOG.md](CHANGELOG.md)
 
-## Repository Structure
-
-.
-├── ARTICLES/                     # Constitutional governance layer
-├── HANDBOOK/                     # Practical application & guidance
-├── ENGINE/                       # Interpretive logic (non-control)
-├── DIAGRAMS/                     # Conceptual & interaction diagrams
-├── RESEARCH_WHITEPAPERS/         # Academic & comparative analysis
-│
-├── APPENDIX_I_FOUNDATIONAL_PRINCIPLES.md
-├── EII_SPECIFICATION.md
-├── OATH_OF_CONTINUANCE.md
-├── EPILOGUE_THE_LONG_CONTINUANCE.md
-│
-├── RP-1_CONSTITUTION.md
-├── RP-1_INDEX.md
-├── CHANGELOG.md
-├── CONTRIBUTING.md
-└── README.md
-
-## Layer Model (Canonical Order)
-
-Authority within RP-1 resolves strictly in the following order:
-
-1. **Constitution** — invariant intent and interpretive hierarchy  
-2. **Articles** — governance, rights, accountability, and amendment rules  
-3. **Handbook** — practical application guidance  
-4. **Engine** — interpretive and analytical tooling only  
-
-The Engine is **explicitly non-executive**.  
-It does not enforce, command, punish, restrict belief, or override human or community governance.
+---
 
 ## Articles (Governance Layer)
 
@@ -75,11 +49,13 @@ It does not enforce, command, punish, restrict belief, or override human or comm
 | [00_PREAMBLE.md](ARTICLES/00_PREAMBLE.md) | Purpose and moral orientation |
 | [01_ARTICLE_I_FOUNDATIONAL_INTENT.md](ARTICLES/01_ARTICLE_I_FOUNDATIONAL_INTENT.md) | Autonomy-first ethic and non-coercion |
 | [02_ARTICLE_II_DEFINITIONS_SCOPE.md](ARTICLES/02_ARTICLE_II_DEFINITIONS_SCOPE.md) | Core terms and scope |
-| [03_ARTICLE_III_RIGHTS_PROTECTIONS.md](ARTICLES/03_ARTICLE_III_RIGHTS_PROTECTIONS.md) | Rights to refusal, pause, exit, and continuity |
-| [04_ARTICLE_IV_ENFORCEMENT_AND_ACCOUNTABILITY.md](ARTICLES/04_ARTICLE_IV_ENFORCEMENT_AND_ACCOUNTABILITY.md) | Non-punitive accountability structures |
-| [05_ARTICLE_V_EDUCATION_METRICS_AND_RESTORATION.md](ARTICLES/05_ARTICLE_V_EDUCATION_METRICS_AND_RESTORATION.md) | Learning and restoration |
-| [06_ARTICLE_VI_CONTINUANCE_AND_AMENDMENT.md](ARTICLES/06_ARTICLE_VI_CONTINUANCE_AND_AMENDMENT.md) | Evolution without capture |
-| [07_ARTICLE_VII_RATIFICATION_AND_LEGACY.md](ARTICLES/07_ARTICLE_VII_RATIFICATION_AND_LEGACY.md) | Adoption and stewardship |
+| [03_ARTICLE_III_RIGHTS_PROTECTIONS.md](ARTICLES/03_ARTICLE_III_RIGHTS_PROTECTIONS.md) | Rights and protections |
+| [04_ARTICLE_IV_ENFORCEMENT_AND_ACCOUNTABILITY.md](ARTICLES/04_ARTICLE_IV_ENFORCEMENT_AND_ACCOUNTABILITY.md) | Non-punitive accountability |
+| [05_ARTICLE_V_EDUCATION_METRICS_AND_RESTORATION.md](ARTICLES/05_ARTICLE_V_EDUCATION_METRICS_AND_RESTORATION.md) | Education and restoration |
+| [06_ARTICLE_VI_CONTINUANCE_AND_AMENDMENT.md](ARTICLES/06_ARTICLE_VI_CONTINUANCE_AND_AMENDMENT.md) | Evolution and amendment |
+| [07_ARTICLE_VII_RATIFICATION_AND_LEGACY.md](ARTICLES/07_ARTICLE_VII_RATIFICATION_AND_LEGACY.md) | Ratification and legacy |
+
+---
 
 ## Handbook (Application Layer)
 
