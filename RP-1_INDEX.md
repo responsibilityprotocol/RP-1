@@ -1,7 +1,7 @@
 # RP-1 Index
 
 This file is the canonical navigation map for the RP-1 repository.  
-**Filenames are canonical.** All links in RP-1 should conform to the filesystem names.
+**Filenames are canonical.** All links must conform exactly to the filesystem.
 
 ---
 
@@ -19,29 +19,29 @@ This file is the canonical navigation map for the RP-1 repository.
 
 ---
 
-## Layer 2 — Articles
+## Layer 2 — Articles (Governance Layer)
 
 Folder:
 - [ARTICLES/](ARTICLES/)
 
-Canonical Articles (Governance Layer):
+Canonical Articles:
 - [00_PREAMBLE.md](ARTICLES/00_PREAMBLE.md)
 - [01_ARTICLE_I_FOUNDATIONAL_INTENT.md](ARTICLES/01_ARTICLE_I_FOUNDATIONAL_INTENT.md)
 - [02_ARTICLE_II_DEFINITIONS_SCOPE.md](ARTICLES/02_ARTICLE_II_DEFINITIONS_SCOPE.md)
 - [03_ARTICLE_III_RIGHTS_PROTECTIONS.md](ARTICLES/03_ARTICLE_III_RIGHTS_PROTECTIONS.md)
-- [04_ARTICLE_IV_ENFORCEMENT_ACCOUNTABILITY.md](ARTICLES/04_ARTICLE_IV_ENFORCEMENT_ACCOUNTABILITY.md)
-- [05_ARTICLE_V_EDUCATION_METRICS_RESTORATION.md](ARTICLES/05_ARTICLE_V_EDUCATION_METRICS_RESTORATION.md)
-- [06_ARTICLE_VI_CONTINUANCE_AMENDMENT.md](ARTICLES/06_ARTICLE_VI_CONTINUANCE_AMENDMENT.md)
-- [07_ARTICLE_VII_RATIFICATION_LEGACY.md](ARTICLES/07_ARTICLE_VII_RATIFICATION_LEGACY.md)
+- [04_ARTICLE_IV_ENFORCEMENT_AND_ACCOUNTABILITY.md](ARTICLES/04_ARTICLE_IV_ENFORCEMENT_AND_ACCOUNTABILITY.md)
+- [05_ARTICLE_V_EDUCATION_METRICS_AND_RESTORATION.md](ARTICLES/05_ARTICLE_V_EDUCATION_METRICS_AND_RESTORATION.md)
+- [06_ARTICLE_VI_CONTINUANCE_AND_AMENDMENT.md](ARTICLES/06_ARTICLE_VI_CONTINUANCE_AND_AMENDMENT.md)
+- [07_ARTICLE_VII_RATIFICATION_AND_LEGACY.md](ARTICLES/07_ARTICLE_VII_RATIFICATION_AND_LEGACY.md)
 
 ---
 
-## Layer 3 — Handbook
+## Layer 3 — Handbook (Application Layer)
 
 Folder:
 - [HANDBOOK/](HANDBOOK/)
 
-Handbook Files (Practical Application Layer):
+Handbook Files:
 - [00_PREFACE.md](HANDBOOK/00_PREFACE.md)
 - [01_CORE_PRINCIPLES.md](HANDBOOK/01_CORE_PRINCIPLES.md)
 - [02_HARM_SCALE.md](HANDBOOK/02_HARM_SCALE.md)
@@ -56,12 +56,12 @@ Handbook Files (Practical Application Layer):
 
 ---
 
-## Layer 4 — Engine
+## Layer 4 — Engine (Interpretive Logic Layer)
 
 Folder:
 - [ENGINE/](ENGINE/)
 
-Engine Files (Interpretive Logic Layer):
+Engine Files:
 - [ENGINE_OVERVIEW.md](ENGINE/ENGINE_OVERVIEW.md)
 - [HARM_INTERPRETATION_PIPELINE.md](ENGINE/HARM_INTERPRETATION_PIPELINE.md)
 - [INTERFACE_SPEC.md](ENGINE/INTERFACE_SPEC.md)
@@ -92,6 +92,3 @@ Engine Files (Interpretive Logic Layer):
 ## Contribution and Governance Process
 
 - [CONTRIBUTING.md](CONTRIBUTING.md)
-
----
-```
