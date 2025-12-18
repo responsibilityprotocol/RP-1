@@ -1,37 +1,47 @@
 # RP-1 Index
 
-This index is the structural map of the RP-1 repository.  
-It is **non-interpretive**: it does not define doctrine or enforcement.  
-For normative meaning, refer to the Constitution and Articles.
+This file is the canonical navigation map for the RP-1 repository.  
+**Filenames are canonical.** All links in RP-1 should conform to the filesystem names.
+
+---
 
 ## Start Here
 
-- **README**: [README.md](README.md)
-- **Constitution (Canonical Intent)**: [RP-1_CONSTITUTION.md](RP-1_CONSTITUTION.md)
-- **Changelog (Traceability)**: [CHANGELOG.md](CHANGELOG.md)
-- **Contributing / Amendments Process**: [CONTRIBUTING.md](CONTRIBUTING.md)
+- [README.md](README.md) — Repository overview and layer model
+- [RP-1_CONSTITUTION.md](RP-1_CONSTITUTION.md) — Canonical constitutional intent and interpretive hierarchy
+- [CHANGELOG.md](CHANGELOG.md) — Traceability of substantive changes
 
-## Repository Structure
+---
 
-- **Articles (Governance Layer)**: [ARTICLES/](ARTICLES/)
-- **Handbook (Application Layer)**: [HANDBOOK/](HANDBOOK/)
-- **Engine (Interpretive Logic Layer)**: [ENGINE/](ENGINE/)
-- **Diagrams**: [DIAGRAMS/](DIAGRAMS/)
-- **Research Whitepapers**: [RESEARCH_WHITEPAPERS/](RESEARCH_WHITEPAPERS/)
+## Layer 1 — Constitution
 
-## Articles
+- [RP-1_CONSTITUTION.md](RP-1_CONSTITUTION.md)
 
+---
+
+## Layer 2 — Articles
+
+Folder:
+- [ARTICLES/](ARTICLES/)
+
+Canonical Articles (Governance Layer):
 - [00_PREAMBLE.md](ARTICLES/00_PREAMBLE.md)
 - [01_ARTICLE_I_FOUNDATIONAL_INTENT.md](ARTICLES/01_ARTICLE_I_FOUNDATIONAL_INTENT.md)
 - [02_ARTICLE_II_DEFINITIONS_SCOPE.md](ARTICLES/02_ARTICLE_II_DEFINITIONS_SCOPE.md)
 - [03_ARTICLE_III_RIGHTS_PROTECTIONS.md](ARTICLES/03_ARTICLE_III_RIGHTS_PROTECTIONS.md)
-- [04_ARTICLE_IV_ENFORCEMENT_AND_ACCOUNTABILITY.md](ARTICLES/04_ARTICLE_IV_ENFORCEMENT_AND_ACCOUNTABILITY.md)
-- [05_ARTICLE_V_EDUCATION_METRICS_AND_RESTORATION.md](ARTICLES/05_ARTICLE_V_EDUCATION_METRICS_AND_RESTORATION.md)
-- [06_ARTICLE_VI_CONTINUANCE_AND_AMENDMENT.md](ARTICLES/06_ARTICLE_VI_CONTINUANCE_AND_AMENDMENT.md)
-- [07_ARTICLE_VII_RATIFICATION_AND_LEGACY.md](ARTICLES/07_ARTICLE_VII_RATIFICATION_AND_LEGACY.md)
+- [04_ARTICLE_IV_ENFORCEMENT_ACCOUNTABILITY.md](ARTICLES/04_ARTICLE_IV_ENFORCEMENT_ACCOUNTABILITY.md)
+- [05_ARTICLE_V_EDUCATION_METRICS_RESTORATION.md](ARTICLES/05_ARTICLE_V_EDUCATION_METRICS_RESTORATION.md)
+- [06_ARTICLE_VI_CONTINUANCE_AMENDMENT.md](ARTICLES/06_ARTICLE_VI_CONTINUANCE_AMENDMENT.md)
+- [07_ARTICLE_VII_RATIFICATION_LEGACY.md](ARTICLES/07_ARTICLE_VII_RATIFICATION_LEGACY.md)
 
-## Handbook
+---
 
+## Layer 3 — Handbook
+
+Folder:
+- [HANDBOOK/](HANDBOOK/)
+
+Handbook Files (Practical Application Layer):
 - [00_PREFACE.md](HANDBOOK/00_PREFACE.md)
 - [01_CORE_PRINCIPLES.md](HANDBOOK/01_CORE_PRINCIPLES.md)
 - [02_HARM_SCALE.md](HANDBOOK/02_HARM_SCALE.md)
@@ -44,26 +54,44 @@ For normative meaning, refer to the Constitution and Articles.
 - [09_RESTORATION_OVER_PUNISHMENT.md](HANDBOOK/09_RESTORATION_OVER_PUNISHMENT.md)
 - [10_CONTINUANCE_AND_EVOLUTION.md](HANDBOOK/10_CONTINUANCE_AND_EVOLUTION.md)
 
-## Engine
+---
 
-The Engine is **interpretive, not executive**. It does not enforce, override, restrict, punish, or command.
+## Layer 4 — Engine
 
+Folder:
+- [ENGINE/](ENGINE/)
+
+Engine Files (Interpretive Logic Layer):
 - [ENGINE_OVERVIEW.md](ENGINE/ENGINE_OVERVIEW.md)
 - [HARM_INTERPRETATION_PIPELINE.md](ENGINE/HARM_INTERPRETATION_PIPELINE.md)
 - [INTERFACE_SPEC.md](ENGINE/INTERFACE_SPEC.md)
 
+---
+
+## Research and Comparative Analysis
+
+- [RESEARCH_WHITEPAPERS/](RESEARCH_WHITEPAPERS/)
+
+---
+
 ## Diagrams
 
-- [EII_INTERVENTION_FLOW.md](DIAGRAMS/EII_INTERVENTION_FLOW.md)
-- [RP-1_SYSTEM_HIERARCHY.md](DIAGRAMS/RP-1_SYSTEM_HIERARCHY.md)
+- [DIAGRAMS/](DIAGRAMS/)
 
-## Research Whitepapers
+---
 
-- [RP-1_vs_EU_AI_Act_Comparative_Whitepaper.md](RESEARCH_WHITEPAPERS/RP-1_vs_EU_AI_Act_Comparative_Whitepaper.md)
-
-## Additional Framework Documents
+## Foundational and Supporting Documents
 
 - [APPENDIX_I_FOUNDATIONAL_PRINCIPLES.md](APPENDIX_I_FOUNDATIONAL_PRINCIPLES.md)
 - [EII_SPECIFICATION.md](EII_SPECIFICATION.md)
 - [OATH_OF_CONTINUANCE.md](OATH_OF_CONTINUANCE.md)
 - [EPILOGUE_THE_LONG_CONTINUANCE.md](EPILOGUE_THE_LONG_CONTINUANCE.md)
+
+---
+
+## Contribution and Governance Process
+
+- [CONTRIBUTING.md](CONTRIBUTING.md)
+
+---
+```
