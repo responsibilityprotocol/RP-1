@@ -1,7 +1,25 @@
-# RP-1 Changelog
+# CHANGELOG.md
 
-This changelog documents all meaningful updates to the RP-1 framework, including structural changes, document additions, clarifications, and reorganizations.  
-Format follows a simplified semantic structure: New / Changed / Removed.
+```md
+# Changelog
+
+All notable changes to this repository are documented in this file.
+
+This project intentionally changes at different speeds:
+- Constitution and Articles are **slow-changing** (amendment governed).
+- Handbook and Engine are **iterative** (clarity governed).
+- Research whitepapers are **supplemental** (scholarship governed).
+
+---
+
+## 2025-12-17
+
+### Fixed
+- Index and README navigation hardened: added consistent, clickable links to canonical layers and subfolders.
+- Normalized references to `ARTICLES/` subfolder placement and ensured filenames are referenced consistently.
+
+### Notes
+- This entry is an integrity hardening pass. No normative doctrine changes are implied by navigation fixes alone.
 
 ---
 ## 2025-10-30 — Repository Structure & Index Alignment
